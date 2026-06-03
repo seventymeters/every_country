@@ -1,0 +1,2416 @@
+[
+  {
+    "code": "af",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asia",
+    "languages": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ]
+  },
+  {
+    "code": "ax",
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "languages": [
+      "Swedish"
+    ]
+  },
+  {
+    "code": "al",
+    "name": "Albania",
+    "capital": "Tirana",
+    "region": "Europe",
+    "languages": [
+      "Albanian"
+    ]
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "as",
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Samoan"
+    ]
+  },
+  {
+    "code": "ad",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "languages": [
+      "Catalan"
+    ]
+  },
+  {
+    "code": "ao",
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "ai",
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "aq",
+    "name": "Antarctica",
+    "capital": "",
+    "region": "Antarctic",
+    "languages": []
+  },
+  {
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "languages": [
+      "Guaraní",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "am",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "languages": [
+      "Armenian"
+    ]
+  },
+  {
+    "code": "aw",
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "Papiamento"
+    ]
+  },
+  {
+    "code": "au",
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "at",
+    "name": "Austria",
+    "capital": "Vienna",
+    "region": "Europe",
+    "languages": [
+      "German"
+    ]
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "languages": [
+      "Azerbaijani"
+    ]
+  },
+  {
+    "code": "bs",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "bh",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "bd",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "languages": [
+      "Bengali"
+    ]
+  },
+  {
+    "code": "bb",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "by",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "region": "Europe",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ]
+  },
+  {
+    "code": "be",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ]
+  },
+  {
+    "code": "bz",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "languages": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "bj",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "bm",
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "bt",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "languages": [
+      "Dzongkha"
+    ]
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "region": "Americas",
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ]
+  },
+  {
+    "code": "bw",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Tswana"
+    ]
+  },
+  {
+    "code": "bv",
+    "name": "Bouvet Island",
+    "capital": "",
+    "region": "Antarctic",
+    "languages": [
+      "Norwegian"
+    ]
+  },
+  {
+    "code": "br",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "io",
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "vg",
+    "name": "British Virgin Islands",
+    "capital": "Road Town",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "bn",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "languages": [
+      "Malay"
+    ]
+  },
+  {
+    "code": "bg",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "region": "Europe",
+    "languages": [
+      "Bulgarian"
+    ]
+  },
+  {
+    "code": "bf",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "bi",
+    "name": "Burundi",
+    "capital": "Gitega",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Kirundi"
+    ]
+  },
+  {
+    "code": "kh",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "languages": [
+      "Khmer"
+    ]
+  },
+  {
+    "code": "cm",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "code": "cv",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "bq",
+    "name": "Caribbean Netherlands",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "English",
+      "Papiamento"
+    ]
+  },
+  {
+    "code": "ky",
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "cf",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Sango"
+    ]
+  },
+  {
+    "code": "td",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "capital": "Santiago",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "cn",
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "languages": [
+      "Chinese"
+    ]
+  },
+  {
+    "code": "cx",
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "cc",
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "km",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "Comorian",
+      "French"
+    ]
+  },
+  {
+    "code": "ck",
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "languages": [
+      "Cook Islands Māori",
+      "English"
+    ]
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "hr",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "languages": [
+      "Croatian"
+    ]
+  },
+  {
+    "code": "cu",
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "cw",
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "English",
+      "Papiamento"
+    ]
+  },
+  {
+    "code": "cy",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ]
+  },
+  {
+    "code": "cz",
+    "name": "Czechia",
+    "capital": "Prague",
+    "region": "Europe",
+    "languages": [
+      "Czech",
+      "Slovak"
+    ]
+  },
+  {
+    "code": "dk",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "languages": [
+      "Danish"
+    ]
+  },
+  {
+    "code": "dj",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  },
+  {
+    "code": "dm",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "do",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "cd",
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Swahili",
+      "Tshiluba"
+    ]
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "capital": "Ciudad de la Paz",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "er",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ]
+  },
+  {
+    "code": "ee",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "languages": [
+      "Estonian"
+    ]
+  },
+  {
+    "code": "sz",
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Swazi"
+    ]
+  },
+  {
+    "code": "et",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "languages": [
+      "Amharic"
+    ]
+  },
+  {
+    "code": "fk",
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "fo",
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "languages": [
+      "Danish",
+      "Faroese"
+    ]
+  },
+  {
+    "code": "fj",
+    "name": "Fiji",
+    "capital": "Suva",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Fiji Hindi",
+      "Fijian"
+    ]
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ]
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "gf",
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "pf",
+    "name": "French Polynesia",
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "tf",
+    "name": "French Southern and Antarctic Lands",
+    "capital": "Port-aux-Français",
+    "region": "Antarctic",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "ga",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "gm",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ge",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "languages": [
+      "Georgian"
+    ]
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "languages": [
+      "German"
+    ]
+  },
+  {
+    "code": "gh",
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "gi",
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "gr",
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "languages": [
+      "Greek"
+    ]
+  },
+  {
+    "code": "gl",
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "languages": [
+      "Greenlandic"
+    ]
+  },
+  {
+    "code": "gd",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "gp",
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "gu",
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "languages": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "gg",
+    "name": "Guernsey",
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "French",
+      "Guernésiais"
+    ]
+  },
+  {
+    "code": "gn",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "languages": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ]
+  },
+  {
+    "code": "gy",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ht",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ]
+  },
+  {
+    "code": "hm",
+    "name": "Heard Island and McDonald Islands",
+    "capital": "",
+    "region": "Antarctic",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "hk",
+    "name": "Hong Kong",
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "English"
+    ]
+  },
+  {
+    "code": "hu",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "region": "Europe",
+    "languages": [
+      "Hungarian"
+    ]
+  },
+  {
+    "code": "is",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "languages": [
+      "Icelandic"
+    ]
+  },
+  {
+    "code": "in",
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ]
+  },
+  {
+    "code": "id",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "languages": [
+      "Indonesian"
+    ]
+  },
+  {
+    "code": "ir",
+    "name": "Iran",
+    "capital": "Tehran",
+    "region": "Asia",
+    "languages": [
+      "Persian (Farsi)"
+    ]
+  },
+  {
+    "code": "iq",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ]
+  },
+  {
+    "code": "ie",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Irish"
+    ]
+  },
+  {
+    "code": "im",
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Manx"
+    ]
+  },
+  {
+    "code": "il",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ]
+  },
+  {
+    "code": "it",
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "languages": [
+      "Catalan",
+      "Italian"
+    ]
+  },
+  {
+    "code": "ci",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "jm",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Jamaican Patois"
+    ]
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "languages": [
+      "Japanese"
+    ]
+  },
+  {
+    "code": "je",
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "French",
+      "Jèrriais"
+    ]
+  },
+  {
+    "code": "jo",
+    "name": "Jordan",
+    "capital": "Amman",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "kz",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "region": "Asia",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ]
+  },
+  {
+    "code": "ke",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  {
+    "code": "ki",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Gilbertese"
+    ]
+  },
+  {
+    "code": "xk",
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europe",
+    "languages": [
+      "Albanian",
+      "Serbian"
+    ]
+  },
+  {
+    "code": "kw",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ]
+  },
+  {
+    "code": "la",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "languages": [
+      "Lao"
+    ]
+  },
+  {
+    "code": "lv",
+    "name": "Latvia",
+    "capital": "Riga",
+    "region": "Europe",
+    "languages": [
+      "Latvian"
+    ]
+  },
+  {
+    "code": "lb",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  },
+  {
+    "code": "ls",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Sotho"
+    ]
+  },
+  {
+    "code": "lr",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ly",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "li",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "languages": [
+      "German"
+    ]
+  },
+  {
+    "code": "lt",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "languages": [
+      "Lithuanian"
+    ]
+  },
+  {
+    "code": "lu",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "languages": [
+      "French",
+      "German",
+      "Luxembourgish"
+    ]
+  },
+  {
+    "code": "mo",
+    "name": "Macau",
+    "capital": "",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "mg",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Malagasy"
+    ]
+  },
+  {
+    "code": "mw",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "languages": [
+      "Chewa",
+      "English"
+    ]
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "languages": [
+      "English",
+      "Malay"
+    ]
+  },
+  {
+    "code": "mv",
+    "name": "Maldives",
+    "capital": "Malé",
+    "region": "Asia",
+    "languages": [
+      "Maldivian"
+    ]
+  },
+  {
+    "code": "ml",
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "mt",
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Maltese"
+    ]
+  },
+  {
+    "code": "mh",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Marshallese"
+    ]
+  },
+  {
+    "code": "mq",
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "mr",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "mu",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ]
+  },
+  {
+    "code": "yt",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "mx",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "fm",
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "md",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "region": "Europe",
+    "languages": [
+      "Romanian"
+    ]
+  },
+  {
+    "code": "mc",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "region": "Europe",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "mn",
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "languages": [
+      "Mongolian"
+    ]
+  },
+  {
+    "code": "me",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "languages": [
+      "Montenegrin"
+    ]
+  },
+  {
+    "code": "ms",
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ma",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ]
+  },
+  {
+    "code": "mz",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "mm",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "languages": [
+      "Burmese"
+    ]
+  },
+  {
+    "code": "na",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "German",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ]
+  },
+  {
+    "code": "nr",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Nauru"
+    ]
+  },
+  {
+    "code": "np",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "languages": [
+      "Nepali"
+    ]
+  },
+  {
+    "code": "nl",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "languages": [
+      "Dutch"
+    ]
+  },
+  {
+    "code": "nc",
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "nz",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Māori",
+      "New Zealand Sign Language"
+    ]
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "ne",
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "ng",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "nu",
+    "name": "Niue",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Niuean"
+    ]
+  },
+  {
+    "code": "nf",
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Norfuk"
+    ]
+  },
+  {
+    "code": "kp",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "languages": [
+      "Korean"
+    ]
+  },
+  {
+    "code": "mk",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "region": "Europe",
+    "languages": [
+      "Macedonian"
+    ]
+  },
+  {
+    "code": "mp",
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "languages": [
+      "Carolinian",
+      "Chamorro",
+      "English"
+    ]
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "capital": "Oslo",
+    "region": "Europe",
+    "languages": [
+      "Norwegian Bokmål",
+      "Norwegian Nynorsk",
+      "Sami"
+    ]
+  },
+  {
+    "code": "om",
+    "name": "Oman",
+    "capital": "Muscat",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "pk",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "languages": [
+      "English",
+      "Urdu"
+    ]
+  },
+  {
+    "code": "pw",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Palauan"
+    ]
+  },
+  {
+    "code": "ps",
+    "name": "Palestine",
+    "capital": "Ramallah",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "pa",
+    "name": "Panama",
+    "capital": "Panama City",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ]
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "region": "Americas",
+    "languages": [
+      "Guaraní",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "pe",
+    "name": "Peru",
+    "capital": "Lima",
+    "region": "Americas",
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "ph",
+    "name": "Philippines",
+    "capital": "Manila",
+    "region": "Asia",
+    "languages": [
+      "English",
+      "Filipino"
+    ]
+  },
+  {
+    "code": "pn",
+    "name": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "pl",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "languages": [
+      "Polish"
+    ]
+  },
+  {
+    "code": "pt",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "pr",
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "qa",
+    "name": "Qatar",
+    "capital": "Doha",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "cg",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ]
+  },
+  {
+    "code": "re",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "ro",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "languages": [
+      "Romanian"
+    ]
+  },
+  {
+    "code": "ru",
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe",
+    "languages": [
+      "Russian"
+    ]
+  },
+  {
+    "code": "rw",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ]
+  },
+  {
+    "code": "bl",
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "sh",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "lc",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "mf",
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "pm",
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "ws",
+    "name": "Samoa",
+    "capital": "Apia",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Samoan"
+    ]
+  },
+  {
+    "code": "sm",
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "languages": [
+      "Italian"
+    ]
+  },
+  {
+    "code": "st",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "sn",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "rs",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "languages": [
+      "Serbian"
+    ]
+  },
+  {
+    "code": "sc",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French",
+      "Seychellois Creole"
+    ]
+  },
+  {
+    "code": "sl",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "sg",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "English",
+      "Malay",
+      "Tamil"
+    ]
+  },
+  {
+    "code": "sx",
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "English",
+      "French"
+    ]
+  },
+  {
+    "code": "sk",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "languages": [
+      "Slovak"
+    ]
+  },
+  {
+    "code": "si",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "languages": [
+      "Slovene"
+    ]
+  },
+  {
+    "code": "sb",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "so",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ]
+  },
+  {
+    "code": "za",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Northern Sotho",
+      "Southern Ndebele",
+      "Southern Sotho",
+      "Swazi",
+      "Tsonga",
+      "Tswana",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ]
+  },
+  {
+    "code": "gs",
+    "name": "South Georgia",
+    "capital": "King Edward Point",
+    "region": "Antarctic",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "kr",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "region": "Asia",
+    "languages": [
+      "Korean"
+    ]
+  },
+  {
+    "code": "ss",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "languages": [
+      "Basque",
+      "Catalan",
+      "Galician",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "lk",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ]
+  },
+  {
+    "code": "sd",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "English"
+    ]
+  },
+  {
+    "code": "sr",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "languages": [
+      "Dutch"
+    ]
+  },
+  {
+    "code": "sj",
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "languages": [
+      "Norwegian"
+    ]
+  },
+  {
+    "code": "se",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "languages": [
+      "Swedish"
+    ]
+  },
+  {
+    "code": "ch",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "region": "Europe",
+    "languages": [
+      "French",
+      "Italian",
+      "Romansh",
+      "Swiss German"
+    ]
+  },
+  {
+    "code": "sy",
+    "name": "Syria",
+    "capital": "Damascus",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "tw",
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "region": "Asia",
+    "languages": [
+      "Chinese"
+    ]
+  },
+  {
+    "code": "tj",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "languages": [
+      "Russian",
+      "Tajik"
+    ]
+  },
+  {
+    "code": "tz",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  {
+    "code": "th",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "languages": [
+      "Thai"
+    ]
+  },
+  {
+    "code": "tl",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "region": "Asia",
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ]
+  },
+  {
+    "code": "tg",
+    "name": "Togo",
+    "capital": "Lomé",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "tk",
+    "name": "Tokelau",
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Samoan",
+      "Tokelauan"
+    ]
+  },
+  {
+    "code": "to",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Tongan"
+    ]
+  },
+  {
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "tr",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "languages": [
+      "Turkish"
+    ]
+  },
+  {
+    "code": "tm",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "languages": [
+      "Russian",
+      "Turkmen"
+    ]
+  },
+  {
+    "code": "tc",
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "tv",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Tuvaluan"
+    ]
+  },
+  {
+    "code": "ug",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ]
+  },
+  {
+    "code": "ua",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "languages": [
+      "Ukrainian"
+    ]
+  },
+  {
+    "code": "ae",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "gb",
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "us",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "um",
+    "name": "United States Minor Outlying Islands",
+    "capital": "Washington DC",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "vi",
+    "name": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "uz",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "languages": [
+      "Russian",
+      "Uzbek"
+    ]
+  },
+  {
+    "code": "vu",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ]
+  },
+  {
+    "code": "va",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "languages": [
+      "Italian",
+      "Latin"
+    ]
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "code": "vn",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "languages": [
+      "Vietnamese"
+    ]
+  },
+  {
+    "code": "wf",
+    "name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "code": "eh",
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ]
+  },
+  {
+    "code": "ye",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ]
+  },
+  {
+    "code": "zm",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "code": "zw",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "languages": [
+      "Chewa",
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tsonga",
+      "Tswana",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ]
+  }
+]

@@ -76,14 +76,43 @@ tbody tr:hover {
 }
 
 .flag-col {
-  width: 48px;
+  width: 64px;
+}
+
+.flag-cell {
+  position: relative;
 }
 
 td .flag {
-  width: 28px;
+  width: 44px;
   height: auto;
   display: block;
   border: 1px solid #e3e6ea;
+  cursor: zoom-in;
+}
+
+/* Enlarged flag shown centered on screen while hovering the flag cell. */
+.flag-preview {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 420px;
+  max-width: 80vw;
+  height: auto;
+  max-height: 80vh;
+  padding: 8px;
+  background: #fff;
+  border: 1px solid #d7dbe0;
+  border-radius: 6px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+  z-index: 100;
+  pointer-events: none;
+}
+
+.flag-cell:hover .flag-preview {
+  display: block;
 }
 
 td.error {

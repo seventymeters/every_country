@@ -12,12 +12,22 @@ function rowToTr(c) {
   const tr = document.createElement('tr');
 
   const flagTd = document.createElement('td');
+  flagTd.className = 'flag-cell';
+
   const img = document.createElement('img');
   img.src = `flags/${c.code}.svg`;
   img.alt = c.name;
   img.className = 'flag';
   img.loading = 'lazy';
-  flagTd.append(img);
+
+  // Enlarged copy shown centered on screen while hovering this cell (CSS-driven).
+  const preview = document.createElement('img');
+  preview.src = `flags/${c.code}.svg`;
+  preview.alt = '';
+  preview.className = 'flag-preview';
+  preview.setAttribute('aria-hidden', 'true');
+
+  flagTd.append(img, preview);
 
   tr.append(
     flagTd,

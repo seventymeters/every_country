@@ -1,0 +1,14 @@
+{
+  "name": "every-country",
+  "version": "1.0.0",
+  "description": "A sortable, spreadsheet-style table of every country.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build-data": "node scripts/build-data.js",
+    "test": "node --test scripts/*.test.js"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

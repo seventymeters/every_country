@@ -15,6 +15,8 @@ build step and no runtime API dependency.
 - Display all ~250 countries in one scrollable table.
 - Columns: **Flag · Country · Capital · Region · Languages**.
 - Click any column header (except Flag) to sort; click again to reverse.
+- Flags render as bundled SVG images so they display identically on every OS
+  and browser (emoji flags do not render on Windows).
 - Load instantly and work offline / regardless of any external API uptime.
 - Deploy by pushing files to a GitHub Pages branch — nothing to build at deploy time.
 
@@ -29,7 +31,8 @@ build step and no runtime API dependency.
 
 ## Architecture
 
-A pure static site. Four shipped assets plus one dev-only script:
+A pure static site. Shipped assets (`index.html`, `style.css`, `app.js`,
+`countries.json`, `flags/`) plus dev-only scripts:
 
 ```
 every_country/
@@ -37,13 +40,16 @@ every_country/
   style.css              # spreadsheet-style table styling
   app.js                 # fetch JSON, render rows, sorting
   countries.json         # generated data, committed to the repo
-  scripts/build-data.js  # dev-only: regenerates countries.json
-  scripts/sort.test.js   # unit test for the sort comparator
+  flags/                 # generated SVG flags (e.g. ch.svg), committed
+  scripts/build-data.js  # dev-only: regenerates countries.json + flags/
+  scripts/sort.test.js   # unit test for the makeComparator function
+  scripts/data.test.js   # data-integrity test for countries.json + flags/
   README.md              # run locally + enable GitHub Pages
 ```
 
 No build step is required to deploy. The site is the raw `index.html`,
-`style.css`, `app.js`, and `countries.json`. GitHub Pages serves them directly.
+`style.css`, `app.js`, `countries.json`, and the `flags/` directory. GitHub
+Pages serves them directly.
 
 ## Data Generation
 
@@ -52,23 +58,31 @@ deploy time):
 
 1. Fetch the full dataset from the REST Countries API
    (`https://restcountries.com/v3.1/all` with a `fields` query limiting the
-   payload to `name,capital,region,languages,flag,cca3`).
+   payload to `name,capital,region,languages,cca2`).
 2. For each country, extract exactly:
-   - `flag` — the emoji flag string (REST Countries `flag` field).
+   - `code` — the ISO 3166-1 alpha-2 code, lowercased (`cca2`, e.g. "ch"). Used
+     as the flag filename and a stable per-country identifier.
    - `name` — the common name (`name.common`).
    - `capital` — first capital in the `capital` array, or empty string if none.
    - `region` — the `region` field (e.g. "Europe", "Asia"), or empty string.
    - `languages` — the values of the `languages` object, sorted alphabetically
      and stored as an array of strings (e.g. `["French", "German", "Italian"]`).
-3. Sort the array by `name` (locale-aware, ascending) for a stable committed file.
-4. Write pretty-printed JSON to `countries.json` at the repo root.
+3. For each country, download its flag SVG from `https://flagcdn.com/<code>.svg`
+   and save it to `flags/<code>.svg` in the repo. Skip the download if the file
+   already exists so re-runs are fast. Countries without a `cca2` code (rare,
+   non-standard entries) are dropped — no code means no flag and no stable key.
+4. Sort the array by `name` (locale-aware, ascending) for a stable committed file.
+5. Write pretty-printed JSON to `countries.json` at the repo root.
+
+The flag SVGs from flagcdn are fetched once at generation time and committed to
+the repo; the live site loads them locally and never touches flagcdn.
 
 `countries.json` shape:
 
 ```json
 [
   {
-    "flag": "🇨🇭",
+    "code": "ch",
     "name": "Switzerland",
     "capital": "Bern",
     "region": "Europe",
@@ -85,8 +99,10 @@ that ever talks to the network, and it is never invoked by end users.
 1. Browser loads `index.html`, which loads `style.css` and `app.js`.
 2. `app.js` `fetch()`es `./countries.json` (same-origin, relative path so it
    works under a GitHub Pages subpath like `user.github.io/every_country/`).
-3. On success: render every country as a table row; the languages array is
-   joined with ", " for display. Apply the default sort (Country, ascending).
+3. On success: render every country as a table row. The flag cell is an
+   `<img src="flags/<code>.svg">` with the country name as `alt` text; the
+   languages array is joined with ", " for display. Apply the default sort
+   (Country, ascending).
 4. Header clicks re-sort the in-memory array and re-render the table body.
 
 ## Sorting Behavior
@@ -116,16 +132,18 @@ independent of any DOM.
 - If an individual country is missing an optional field (capital, region,
   languages), the cell renders empty rather than "undefined". The build script
   already normalizes missing values to empty string / empty array.
+- If a flag SVG fails to load in the browser, the `<img>` `alt` text (the
+  country name) shows in its place; no broken-image handling beyond that.
 
 ## Testing
 
-- **Data integrity check** (`scripts/sort.test.js` or a sibling): after
-  generation, assert `countries.json` parses, contains at least 240 entries,
-  and every entry has non-empty `flag` and `name` and the `languages` field is
-  an array.
-- **Sort unit test**: exercise `makeComparator` on a small fixture array —
-  verify ascending/descending order, locale-aware accent handling, and that
-  empty values sort consistently.
+- **Data integrity check** (`scripts/data.test.js`): assert `countries.json`
+  parses, contains at least 240 entries, every entry has a non-empty `code` and
+  `name` with `languages` as an array, and that `flags/<code>.svg` exists for
+  every entry.
+- **Sort unit test** (`scripts/sort.test.js`): exercise `makeComparator` on a
+  small fixture array — verify ascending/descending order, locale-aware accent
+  handling, and that empty values sort consistently.
 - Tests run with Node's built-in test runner (`node --test`); no test framework
   dependency needed.
 - **Manual smoke check**: open `index.html` via a local static server, confirm

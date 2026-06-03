@@ -71,6 +71,8 @@ deploy time):
    and save it to `flags/<code>.svg` in the repo. Skip the download if the file
    already exists so re-runs are fast. Countries without a `cca2` code (rare,
    non-standard entries) are dropped — no code means no flag and no stable key.
+   A country whose flag download fails is also dropped from `countries.json`, so
+   every committed entry is guaranteed to have a bundled flag.
 4. Sort the array by `name` (locale-aware, ascending) for a stable committed file.
 5. Write pretty-printed JSON to `countries.json` at the repo root.
 

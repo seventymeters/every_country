@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>every_country</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="bar">
+        <h1>🌍 every_country</h1>
+        <span id="count" class="count"></span>
+      </header>
+      <table id="country-table">
+        <thead>
+          <tr>
+            <th class="flag-col">Flag</th>
+            <th data-key="name">Country <span class="arrow"></span></th>
+            <th data-key="capital">Capital <span class="arrow"></span></th>
+            <th data-key="region">Region <span class="arrow"></span></th>
+            <th data-key="languages">Languages <span class="arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </main>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

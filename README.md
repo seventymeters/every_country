@@ -1,28 +1,29 @@
 # every_country
 
-A static, single-page table of every country — flag, name, capital, region, and
-spoken languages — with sortable columns. No framework, no build step.
+Easy country info for memorization, flash cards, and quick lookup.
+
+Live site: [https://seventymeters.github.io/every_country/](https://seventymeters.github.io/every_country/)
+
+`every_country` is a tiny static study tool with flags, countries, capitals,
+regions, and spoken languages. Sort the table, search by any field, and use the
+mobile-friendly card layout when you want to review countries away from a desk.
+
+## Features
+
+- Search countries, capitals, regions, and languages
+- Sort by country, capital, region, or languages
+- Responsive table/card layout for desktop and mobile
+- Local flag assets and country data
+- No accounts, backend, tracking, framework, or build step
 
 ## Run locally
 
-ES modules need to be served over HTTP (not opened as a `file://` path):
+ES modules need to be served over HTTP rather than opened as a `file://` path:
 
 ```bash
-python3 -m http.server 8000
+npm start
 # then open http://localhost:8000/
 ```
-
-## Regenerate the data
-
-Country data and flag SVGs are committed to the repo, generated from
-[REST Countries](https://restcountries.com) and [flagcdn](https://flagcdn.com).
-Re-run the generator (needs Node 20.11+ and internet) to refresh:
-
-```bash
-npm run build-data
-```
-
-This rewrites `countries.json` and adds any missing flags to `flags/`.
 
 ## Test
 
@@ -30,12 +31,27 @@ This rewrites `countries.json` and adds any missing flags to `flags/`.
 npm test
 ```
 
-Runs the sort-comparator unit tests and the data-integrity checks.
+This runs data-integrity checks plus unit tests for sorting and search.
 
-## Deploy to GitHub Pages
+## Refresh data
 
-1. Push this repo to GitHub.
-2. In **Settings → Pages**, set the source to the `main` branch, root folder.
-3. The site is served at `https://<user>.github.io/every_country/`.
+Country data and flag SVGs are committed to the repo. They are generated from
+[REST Countries](https://restcountries.com) and [flagcdn](https://flagcdn.com).
+
+To refresh the dataset, use Node 20.11+ and internet access:
+
+```bash
+npm run build-data
+```
+
+This rewrites `countries.json` and adds any missing files to `flags/`.
+
+## Deploy
+
+This repo is designed for GitHub Pages:
+
+1. Push the repo to GitHub.
+2. In **Settings -> Pages**, publish from the `main` branch and root folder.
+3. The page is served from `https://seventymeters.github.io/every_country/`.
 
 All asset paths are relative, so no base-path configuration is needed.

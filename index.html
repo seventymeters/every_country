@@ -3,8 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>every_country</title>
+    <title>every_country | sortable country table</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8C%8D%3C/text%3E%3C/svg%3E"
+    />
   </head>
   <body>
     <main class="wrap">
@@ -12,19 +16,50 @@
         <h1>🌍 every_country</h1>
         <span id="count" class="count"></span>
       </header>
-      <table id="country-table">
-        <thead>
-          <tr>
-            <th class="flag-col">Flag</th>
-            <th data-key="name">Country <span class="arrow"></span></th>
-            <th data-key="capital">Capital <span class="arrow"></span></th>
-            <th data-key="region">Region <span class="arrow"></span></th>
-            <th data-key="languages">Languages <span class="arrow"></span></th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
+      <section class="controls" aria-label="Country filters">
+        <label class="search-field">
+          <span class="search-label">Search</span>
+          <input
+            id="search"
+            type="search"
+            autocomplete="off"
+            placeholder="Country, capital, region, or language"
+          />
+        </label>
+        <button id="clear-search" class="clear-search" type="button" hidden>Clear</button>
+      </section>
+      <div class="table-shell">
+        <table id="country-table">
+          <thead>
+            <tr>
+              <th class="flag-col" scope="col">Flag</th>
+              <th data-key="name" scope="col" aria-sort="ascending">
+                <button type="button" class="sort-button">
+                  Country <span class="arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+              <th data-key="capital" scope="col">
+                <button type="button" class="sort-button">
+                  Capital <span class="arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+              <th data-key="region" scope="col">
+                <button type="button" class="sort-button">
+                  Region <span class="arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+              <th data-key="languages" scope="col">
+                <button type="button" class="sort-button">
+                  Languages <span class="arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
     </main>
+    <img id="flag-preview" class="flag-preview" alt="" aria-hidden="true" />
     <script type="module" src="app.js"></script>
   </body>
 </html>

@@ -5,6 +5,7 @@
 import { writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
+import { cleanEndonyms } from '../endonyms.js';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const FLAGS_DIR = path.join(ROOT, 'flags');
@@ -40,9 +41,12 @@ function normalize(raw) {
     .map((c) => ({
       code: c.cca2.toLowerCase(),
       name: c.name?.common ?? '',
-      endonyms: c.name?.nativeName
-        ? sortedUnique(Object.values(c.name.nativeName).map((name) => name.common))
-        : [],
+      endonyms: cleanEndonyms(
+        c.name?.nativeName
+          ? sortedUnique(Object.values(c.name.nativeName).map((name) => name.common))
+          : [],
+        c.name?.common ?? '',
+      ),
       capital: Array.isArray(c.capital) && c.capital.length ? c.capital[0] : '',
       region: c.region ?? '',
       status: classify(c),

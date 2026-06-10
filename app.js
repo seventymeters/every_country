@@ -1,5 +1,6 @@
 import { makeComparator } from './sort.js';
 import { filterRows, withSearchText } from './search.js';
+import { displayEndonyms } from './endonyms.js';
 
 const state = { rows: [], visibleRows: [], sortKey: 'name', sortDir: 'asc', query: '' };
 const flagPreview = document.querySelector('#flag-preview');
@@ -36,7 +37,7 @@ function rowToTr(c) {
   tr.append(
     flagTd,
     td(c.name, 'Country'),
-    td((c.endonyms ?? []).join(', '), 'Endonym'),
+    td(displayEndonyms(c.endonyms, c.name), 'Endonym'),
     td(c.capital ?? '', 'Capital'),
     td(c.region ?? '', 'Region'),
     td(c.status ?? '', 'Status', 'status-cell'),

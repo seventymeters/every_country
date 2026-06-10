@@ -8,14 +8,6 @@ Live site: [https://seventymeters.github.io/every_country/](https://seventymeter
 regions, and spoken languages. Sort the table, search by any field, and use the
 mobile-friendly card layout when you want to review countries away from a desk.
 
-## Features
-
-- Search countries, capitals, regions, and languages
-- Sort by country, capital, region, or languages
-- Responsive table/card layout for desktop and mobile
-- Local flag assets and country data
-- No accounts, backend, tracking, framework, or build step
-
 ## Run locally
 
 ES modules need to be served over HTTP rather than opened as a `file://` path:
@@ -45,13 +37,3 @@ npm run build-data
 ```
 
 This rewrites `countries.json` and adds any missing files to `flags/`.
-
-## Deploy
-
-This repo is designed for GitHub Pages:
-
-1. Push the repo to GitHub.
-2. In **Settings -> Pages**, publish from the `main` branch and root folder.
-3. The page is served from `https://seventymeters.github.io/every_country/`.
-
-All asset paths are relative, so no base-path configuration is needed.

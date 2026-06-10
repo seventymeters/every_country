@@ -8,9 +8,31 @@ import path from 'node:path';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const FLAGS_DIR = path.join(ROOT, 'flags');
-const API = 'https://restcountries.com/v3.1/all?fields=name,capital,region,languages,cca2';
+const API =
+  'https://restcountries.com/v3.1/all?fields=name,capital,region,languages,cca2,independent,unMember,status';
+
+const STATUS_OVERRIDES = new Map([
+  ['ck', 'Associated state'],
+  ['nu', 'Associated state'],
+  ['ps', 'Observer state'],
+  ['tw', 'Disputed territory'],
+  ['va', 'Observer state'],
+  ['xk', 'Disputed territory'],
+  ['eh', 'Disputed territory'],
+]);
+
+function classify(c) {
+  const code = c.cca2.toLowerCase();
+  if (STATUS_OVERRIDES.has(code)) return STATUS_OVERRIDES.get(code);
+  if (c.independent) return 'Sovereign state';
+  return 'Territory / dependency';
+}
 
 const collator = new Intl.Collator(undefined, { sensitivity: 'base', numeric: true });
+
+function sortedUnique(values) {
+  return [...new Set(values.filter(Boolean))].sort((a, b) => collator.compare(a, b));
+}
 
 function normalize(raw) {
   return raw
@@ -18,11 +40,13 @@ function normalize(raw) {
     .map((c) => ({
       code: c.cca2.toLowerCase(),
       name: c.name?.common ?? '',
+      endonyms: c.name?.nativeName
+        ? sortedUnique(Object.values(c.name.nativeName).map((name) => name.common))
+        : [],
       capital: Array.isArray(c.capital) && c.capital.length ? c.capital[0] : '',
       region: c.region ?? '',
-      languages: c.languages
-        ? Object.values(c.languages).sort((a, b) => collator.compare(a, b))
-        : [],
+      status: classify(c),
+      languages: c.languages ? sortedUnique(Object.values(c.languages)) : [],
     }))
     .sort((a, b) => collator.compare(a.name, b.name));
 }

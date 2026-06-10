@@ -3,11 +3,41 @@ import assert from 'node:assert/strict';
 import { makeComparator } from '../sort.js';
 
 const rows = [
-  { name: 'Brazil', capital: 'Brasília', region: 'Americas', languages: ['Portuguese'] },
-  { name: 'Canada', capital: 'Ottawa', region: 'Americas', languages: ['English', 'French'] },
-  { name: "Côte d'Ivoire", capital: 'Yamoussoukro', region: 'Africa', languages: ['French'] },
-  { name: 'cuba', capital: 'Havana', region: 'Americas', languages: ['Spanish'] },
-  { name: 'Chad', capital: '', region: 'Africa', languages: ['Arabic', 'French'] },
+  {
+    name: 'Brazil',
+    endonyms: ['Brasil'],
+    capital: 'Brasília',
+    region: 'Americas',
+    languages: ['Portuguese'],
+  },
+  {
+    name: 'Canada',
+    endonyms: ['Canada'],
+    capital: 'Ottawa',
+    region: 'Americas',
+    languages: ['English', 'French'],
+  },
+  {
+    name: "Côte d'Ivoire",
+    endonyms: ["Côte d'Ivoire"],
+    capital: 'Yamoussoukro',
+    region: 'Africa',
+    languages: ['French'],
+  },
+  {
+    name: 'cuba',
+    endonyms: ['Cuba'],
+    capital: 'Havana',
+    region: 'Americas',
+    languages: ['Spanish'],
+  },
+  {
+    name: 'Chad',
+    endonyms: ['Tchad', 'تشاد'],
+    capital: '',
+    region: 'Africa',
+    languages: ['Arabic', 'French'],
+  },
 ];
 
 test('sorts by name ascending: accent- and case-insensitive', () => {
@@ -29,6 +59,11 @@ test('empty values group first when ascending', () => {
 test('languages sort by comma-joined string', () => {
   const got = [...rows].sort(makeComparator('languages', 'asc')).map((r) => r.languages.join(', '));
   assert.deepEqual(got, ['Arabic, French', 'English, French', 'French', 'Portuguese', 'Spanish']);
+});
+
+test('endonyms sort by comma-joined string', () => {
+  const got = [...rows].sort(makeComparator('endonyms', 'asc')).map((r) => r.name);
+  assert.deepEqual(got, ['Brazil', 'Canada', "Côte d'Ivoire", 'cuba', 'Chad']);
 });
 
 test('missing field is treated as empty string (no throw)', () => {

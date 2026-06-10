@@ -3,13 +3,14 @@
 const collator = new Intl.Collator(undefined, { sensitivity: 'base', numeric: true });
 
 function valueFor(row, key) {
+  if (key === 'endonyms') return (row.endonyms ?? []).join(', ');
   if (key === 'languages') return (row.languages ?? []).join(', ');
   return row[key] ?? '';
 }
 
 /**
  * Build a comparator for Array.prototype.sort.
- * @param {string} key - one of: name, capital, region, languages
+ * @param {string} key - one of: name, endonyms, capital, region, status, languages
  * @param {'asc'|'desc'} direction
  */
 export function makeComparator(key, direction) {

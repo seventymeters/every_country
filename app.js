@@ -7,9 +7,10 @@ const count = document.querySelector('#count');
 const search = document.querySelector('#search');
 const clearSearch = document.querySelector('#clear-search');
 
-function td(text, label) {
+function td(text, label, className = '') {
   const el = document.createElement('td');
   el.dataset.label = label;
+  if (className) el.className = className;
   el.textContent = text;
   return el;
 }
@@ -35,8 +36,10 @@ function rowToTr(c) {
   tr.append(
     flagTd,
     td(c.name, 'Country'),
+    td((c.endonyms ?? []).join(', '), 'Endonym'),
     td(c.capital ?? '', 'Capital'),
     td(c.region ?? '', 'Region'),
+    td(c.status ?? '', 'Status', 'status-cell'),
     td((c.languages ?? []).join(', '), 'Languages'),
   );
   return tr;
@@ -57,7 +60,7 @@ function render() {
   if (state.visibleRows.length === 0) {
     const tr = document.createElement('tr');
     const cell = document.createElement('td');
-    cell.colSpan = 5;
+    cell.colSpan = 7;
     cell.className = 'empty';
     cell.textContent = 'No matching countries.';
     tr.append(cell);
@@ -132,7 +135,7 @@ function showError() {
   const tbody = document.querySelector('#country-table tbody');
   const tr = document.createElement('tr');
   const cell = document.createElement('td');
-  cell.colSpan = 5;
+  cell.colSpan = 7;
   cell.className = 'error';
   cell.textContent = "Couldn't load country data.";
   tr.append(cell);

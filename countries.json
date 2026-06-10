@@ -2,8 +2,13 @@
   {
     "code": "af",
     "name": "Afghanistan",
+    "endonyms": [
+      "Owganystan",
+      "افغانستان"
+    ],
     "capital": "Kabul",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Dari",
       "Pashto",
@@ -13,8 +18,12 @@
   {
     "code": "ax",
     "name": "Åland Islands",
+    "endonyms": [
+      "Åland"
+    ],
     "capital": "Mariehamn",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "Swedish"
     ]
@@ -22,8 +31,12 @@
   {
     "code": "al",
     "name": "Albania",
+    "endonyms": [
+      "Shqipëria"
+    ],
     "capital": "Tirana",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Albanian"
     ]
@@ -31,8 +44,12 @@
   {
     "code": "dz",
     "name": "Algeria",
+    "endonyms": [
+      "الجزائر"
+    ],
     "capital": "Algiers",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -40,8 +57,13 @@
   {
     "code": "as",
     "name": "American Samoa",
+    "endonyms": [
+      "American Samoa",
+      "Sāmoa Amelika"
+    ],
     "capital": "Pago Pago",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "Samoan"
@@ -50,8 +72,12 @@
   {
     "code": "ad",
     "name": "Andorra",
+    "endonyms": [
+      "Andorra"
+    ],
     "capital": "Andorra la Vella",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Catalan"
     ]
@@ -59,8 +85,12 @@
   {
     "code": "ao",
     "name": "Angola",
+    "endonyms": [
+      "Angola"
+    ],
     "capital": "Luanda",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -68,8 +98,12 @@
   {
     "code": "ai",
     "name": "Anguilla",
+    "endonyms": [
+      "Anguilla"
+    ],
     "capital": "The Valley",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -77,15 +111,21 @@
   {
     "code": "aq",
     "name": "Antarctica",
+    "endonyms": [],
     "capital": "",
     "region": "Antarctic",
+    "status": "Territory / dependency",
     "languages": []
   },
   {
     "code": "ag",
     "name": "Antigua and Barbuda",
+    "endonyms": [
+      "Antigua and Barbuda"
+    ],
     "capital": "Saint John's",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -93,8 +133,12 @@
   {
     "code": "ar",
     "name": "Argentina",
+    "endonyms": [
+      "Argentina"
+    ],
     "capital": "Buenos Aires",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Guaraní",
       "Spanish"
@@ -103,8 +147,12 @@
   {
     "code": "am",
     "name": "Armenia",
+    "endonyms": [
+      "Հայաստան"
+    ],
     "capital": "Yerevan",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Armenian"
     ]
@@ -112,8 +160,12 @@
   {
     "code": "aw",
     "name": "Aruba",
+    "endonyms": [
+      "Aruba"
+    ],
     "capital": "Oranjestad",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "Dutch",
       "Papiamento"
@@ -122,8 +174,12 @@
   {
     "code": "au",
     "name": "Australia",
+    "endonyms": [
+      "Australia"
+    ],
     "capital": "Canberra",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -131,8 +187,12 @@
   {
     "code": "at",
     "name": "Austria",
+    "endonyms": [
+      "Österreich"
+    ],
     "capital": "Vienna",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "German"
     ]
@@ -140,8 +200,12 @@
   {
     "code": "az",
     "name": "Azerbaijan",
+    "endonyms": [
+      "Azərbaycan"
+    ],
     "capital": "Baku",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Azerbaijani"
     ]
@@ -149,8 +213,12 @@
   {
     "code": "bs",
     "name": "Bahamas",
+    "endonyms": [
+      "Bahamas"
+    ],
     "capital": "Nassau",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -158,8 +226,12 @@
   {
     "code": "bh",
     "name": "Bahrain",
+    "endonyms": [
+      "‏البحرين"
+    ],
     "capital": "Manama",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -167,8 +239,12 @@
   {
     "code": "bd",
     "name": "Bangladesh",
+    "endonyms": [
+      "বাংলাদেশ"
+    ],
     "capital": "Dhaka",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Bengali"
     ]
@@ -176,8 +252,12 @@
   {
     "code": "bb",
     "name": "Barbados",
+    "endonyms": [
+      "Barbados"
+    ],
     "capital": "Bridgetown",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -185,8 +265,13 @@
   {
     "code": "by",
     "name": "Belarus",
+    "endonyms": [
+      "Белару́сь",
+      "Беларусь"
+    ],
     "capital": "Minsk",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Belarusian",
       "Russian"
@@ -195,8 +280,14 @@
   {
     "code": "be",
     "name": "Belgium",
+    "endonyms": [
+      "België",
+      "Belgien",
+      "Belgique"
+    ],
     "capital": "Brussels",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Dutch",
       "French",
@@ -206,8 +297,13 @@
   {
     "code": "bz",
     "name": "Belize",
+    "endonyms": [
+      "Belice",
+      "Belize"
+    ],
     "capital": "Belmopan",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Belizean Creole",
       "English",
@@ -217,8 +313,12 @@
   {
     "code": "bj",
     "name": "Benin",
+    "endonyms": [
+      "Bénin"
+    ],
     "capital": "Porto-Novo",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -226,8 +326,12 @@
   {
     "code": "bm",
     "name": "Bermuda",
+    "endonyms": [
+      "Bermuda"
+    ],
     "capital": "Hamilton",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -235,8 +339,12 @@
   {
     "code": "bt",
     "name": "Bhutan",
+    "endonyms": [
+      "འབྲུག་ཡུལ་"
+    ],
     "capital": "Thimphu",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Dzongkha"
     ]
@@ -244,8 +352,15 @@
   {
     "code": "bo",
     "name": "Bolivia",
+    "endonyms": [
+      "Bolivia",
+      "Buliwya",
+      "Volívia",
+      "Wuliwya"
+    ],
     "capital": "Sucre",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Aymara",
       "Guaraní",
@@ -256,8 +371,13 @@
   {
     "code": "ba",
     "name": "Bosnia and Herzegovina",
+    "endonyms": [
+      "Bosna i Hercegovina",
+      "Босна и Херцеговина"
+    ],
     "capital": "Sarajevo",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Bosnian",
       "Croatian",
@@ -267,8 +387,12 @@
   {
     "code": "bw",
     "name": "Botswana",
+    "endonyms": [
+      "Botswana"
+    ],
     "capital": "Gaborone",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Tswana"
@@ -277,8 +401,12 @@
   {
     "code": "bv",
     "name": "Bouvet Island",
+    "endonyms": [
+      "Bouvetøya"
+    ],
     "capital": "",
     "region": "Antarctic",
+    "status": "Territory / dependency",
     "languages": [
       "Norwegian"
     ]
@@ -286,8 +414,12 @@
   {
     "code": "br",
     "name": "Brazil",
+    "endonyms": [
+      "Brasil"
+    ],
     "capital": "Brasília",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -295,8 +427,12 @@
   {
     "code": "io",
     "name": "British Indian Ocean Territory",
+    "endonyms": [
+      "British Indian Ocean Territory"
+    ],
     "capital": "Diego Garcia",
     "region": "Africa",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -304,8 +440,12 @@
   {
     "code": "vg",
     "name": "British Virgin Islands",
+    "endonyms": [
+      "British Virgin Islands"
+    ],
     "capital": "Road Town",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -313,8 +453,12 @@
   {
     "code": "bn",
     "name": "Brunei",
+    "endonyms": [
+      "Negara Brunei Darussalam"
+    ],
     "capital": "Bandar Seri Begawan",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Malay"
     ]
@@ -322,8 +466,12 @@
   {
     "code": "bg",
     "name": "Bulgaria",
+    "endonyms": [
+      "България"
+    ],
     "capital": "Sofia",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Bulgarian"
     ]
@@ -331,8 +479,12 @@
   {
     "code": "bf",
     "name": "Burkina Faso",
+    "endonyms": [
+      "Burkina Faso"
+    ],
     "capital": "Ouagadougou",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -340,8 +492,13 @@
   {
     "code": "bi",
     "name": "Burundi",
+    "endonyms": [
+      "Burundi",
+      "Uburundi"
+    ],
     "capital": "Gitega",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Kirundi"
@@ -350,8 +507,12 @@
   {
     "code": "kh",
     "name": "Cambodia",
+    "endonyms": [
+      "Kâmpŭchéa"
+    ],
     "capital": "Phnom Penh",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Khmer"
     ]
@@ -359,8 +520,13 @@
   {
     "code": "cm",
     "name": "Cameroon",
+    "endonyms": [
+      "Cameroon",
+      "Cameroun"
+    ],
     "capital": "Yaoundé",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "French"
@@ -369,8 +535,12 @@
   {
     "code": "ca",
     "name": "Canada",
+    "endonyms": [
+      "Canada"
+    ],
     "capital": "Ottawa",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "French"
@@ -379,8 +549,12 @@
   {
     "code": "cv",
     "name": "Cape Verde",
+    "endonyms": [
+      "Cabo Verde"
+    ],
     "capital": "Praia",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -388,8 +562,13 @@
   {
     "code": "bq",
     "name": "Caribbean Netherlands",
+    "endonyms": [
+      "Boneiru, Sint Eustatius y Saba",
+      "Caribisch Nederland"
+    ],
     "capital": "Kralendijk",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "Dutch",
       "English",
@@ -399,8 +578,12 @@
   {
     "code": "ky",
     "name": "Cayman Islands",
+    "endonyms": [
+      "Cayman Islands"
+    ],
     "capital": "George Town",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -408,8 +591,13 @@
   {
     "code": "cf",
     "name": "Central African Republic",
+    "endonyms": [
+      "Bêafrîka",
+      "République centrafricaine"
+    ],
     "capital": "Bangui",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Sango"
@@ -418,8 +606,13 @@
   {
     "code": "td",
     "name": "Chad",
+    "endonyms": [
+      "Tchad",
+      "تشاد‎"
+    ],
     "capital": "N'Djamena",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "French"
@@ -428,8 +621,12 @@
   {
     "code": "cl",
     "name": "Chile",
+    "endonyms": [
+      "Chile"
+    ],
     "capital": "Santiago",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -437,8 +634,12 @@
   {
     "code": "cn",
     "name": "China",
+    "endonyms": [
+      "中国"
+    ],
     "capital": "Beijing",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Chinese"
     ]
@@ -446,8 +647,12 @@
   {
     "code": "cx",
     "name": "Christmas Island",
+    "endonyms": [
+      "Christmas Island"
+    ],
     "capital": "Flying Fish Cove",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -455,8 +660,12 @@
   {
     "code": "cc",
     "name": "Cocos (Keeling) Islands",
+    "endonyms": [
+      "Cocos (Keeling) Islands"
+    ],
     "capital": "West Island",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -464,8 +673,12 @@
   {
     "code": "co",
     "name": "Colombia",
+    "endonyms": [
+      "Colombia"
+    ],
     "capital": "Bogotá",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -473,8 +686,14 @@
   {
     "code": "km",
     "name": "Comoros",
+    "endonyms": [
+      "Comores",
+      "Komori",
+      "القمر‎"
+    ],
     "capital": "Moroni",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "Comorian",
@@ -484,8 +703,13 @@
   {
     "code": "ck",
     "name": "Cook Islands",
+    "endonyms": [
+      "Cook Islands",
+      "Kūki 'Āirani"
+    ],
     "capital": "Avarua",
     "region": "Oceania",
+    "status": "Associated state",
     "languages": [
       "Cook Islands Māori",
       "English"
@@ -494,8 +718,12 @@
   {
     "code": "cr",
     "name": "Costa Rica",
+    "endonyms": [
+      "Costa Rica"
+    ],
     "capital": "San José",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -503,8 +731,12 @@
   {
     "code": "hr",
     "name": "Croatia",
+    "endonyms": [
+      "Hrvatska"
+    ],
     "capital": "Zagreb",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Croatian"
     ]
@@ -512,8 +744,12 @@
   {
     "code": "cu",
     "name": "Cuba",
+    "endonyms": [
+      "Cuba"
+    ],
     "capital": "Havana",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -521,8 +757,13 @@
   {
     "code": "cw",
     "name": "Curaçao",
+    "endonyms": [
+      "Curaçao",
+      "Pais Kòrsou"
+    ],
     "capital": "Willemstad",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "Dutch",
       "English",
@@ -532,8 +773,13 @@
   {
     "code": "cy",
     "name": "Cyprus",
+    "endonyms": [
+      "Kıbrıs",
+      "Κύπρος"
+    ],
     "capital": "Nicosia",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Greek",
       "Turkish"
@@ -542,8 +788,12 @@
   {
     "code": "cz",
     "name": "Czechia",
+    "endonyms": [
+      "Česko"
+    ],
     "capital": "Prague",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Czech",
       "Slovak"
@@ -552,8 +802,12 @@
   {
     "code": "dk",
     "name": "Denmark",
+    "endonyms": [
+      "Danmark"
+    ],
     "capital": "Copenhagen",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Danish"
     ]
@@ -561,8 +815,13 @@
   {
     "code": "dj",
     "name": "Djibouti",
+    "endonyms": [
+      "Djibouti",
+      "جيبوتي‎"
+    ],
     "capital": "Djibouti",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "French"
@@ -571,8 +830,12 @@
   {
     "code": "dm",
     "name": "Dominica",
+    "endonyms": [
+      "Dominica"
+    ],
     "capital": "Roseau",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -580,8 +843,12 @@
   {
     "code": "do",
     "name": "Dominican Republic",
+    "endonyms": [
+      "República Dominicana"
+    ],
     "capital": "Santo Domingo",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -589,8 +856,16 @@
   {
     "code": "cd",
     "name": "DR Congo",
+    "endonyms": [
+      "Ditunga dia Kongu wa Mungalaata",
+      "Jamhuri ya Kidemokrasia ya Kongo",
+      "RD Congo",
+      "Repubilika ya Kongo Demokratiki",
+      "Republiki ya Kongó Demokratiki"
+    ],
     "capital": "Kinshasa",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Kikongo",
@@ -602,8 +877,12 @@
   {
     "code": "ec",
     "name": "Ecuador",
+    "endonyms": [
+      "Ecuador"
+    ],
     "capital": "Quito",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -611,8 +890,12 @@
   {
     "code": "eg",
     "name": "Egypt",
+    "endonyms": [
+      "مصر"
+    ],
     "capital": "Cairo",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -620,8 +903,12 @@
   {
     "code": "sv",
     "name": "El Salvador",
+    "endonyms": [
+      "El Salvador"
+    ],
     "capital": "San Salvador",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -629,8 +916,14 @@
   {
     "code": "gq",
     "name": "Equatorial Guinea",
+    "endonyms": [
+      "Guiné Equatorial",
+      "Guinea Ecuatorial",
+      "Guinée équatoriale"
+    ],
     "capital": "Ciudad de la Paz",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Portuguese",
@@ -640,8 +933,14 @@
   {
     "code": "er",
     "name": "Eritrea",
+    "endonyms": [
+      "Eritrea",
+      "إرتريا‎",
+      "ኤርትራ"
+    ],
     "capital": "Asmara",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "English",
@@ -651,8 +950,12 @@
   {
     "code": "ee",
     "name": "Estonia",
+    "endonyms": [
+      "Eesti"
+    ],
     "capital": "Tallinn",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Estonian"
     ]
@@ -660,8 +963,13 @@
   {
     "code": "sz",
     "name": "Eswatini",
+    "endonyms": [
+      "Eswatini",
+      "eSwatini"
+    ],
     "capital": "Mbabane",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Swazi"
@@ -670,8 +978,12 @@
   {
     "code": "et",
     "name": "Ethiopia",
+    "endonyms": [
+      "ኢትዮጵያ"
+    ],
     "capital": "Addis Ababa",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Amharic"
     ]
@@ -679,8 +991,12 @@
   {
     "code": "fk",
     "name": "Falkland Islands",
+    "endonyms": [
+      "Falkland Islands"
+    ],
     "capital": "Stanley",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -688,8 +1004,13 @@
   {
     "code": "fo",
     "name": "Faroe Islands",
+    "endonyms": [
+      "Færøerne",
+      "Føroyar"
+    ],
     "capital": "Tórshavn",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "Danish",
       "Faroese"
@@ -698,8 +1019,14 @@
   {
     "code": "fj",
     "name": "Fiji",
+    "endonyms": [
+      "Fiji",
+      "Viti",
+      "फिजी"
+    ],
     "capital": "Suva",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Fiji Hindi",
@@ -709,8 +1036,13 @@
   {
     "code": "fi",
     "name": "Finland",
+    "endonyms": [
+      "Finland",
+      "Suomi"
+    ],
     "capital": "Helsinki",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Finnish",
       "Swedish"
@@ -719,8 +1051,12 @@
   {
     "code": "fr",
     "name": "France",
+    "endonyms": [
+      "France"
+    ],
     "capital": "Paris",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -728,8 +1064,12 @@
   {
     "code": "gf",
     "name": "French Guiana",
+    "endonyms": [
+      "Guyane française"
+    ],
     "capital": "Cayenne",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -737,8 +1077,12 @@
   {
     "code": "pf",
     "name": "French Polynesia",
+    "endonyms": [
+      "Polynésie française"
+    ],
     "capital": "Papeetē",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -746,8 +1090,12 @@
   {
     "code": "tf",
     "name": "French Southern and Antarctic Lands",
+    "endonyms": [
+      "Terres australes et antarctiques françaises"
+    ],
     "capital": "Port-aux-Français",
     "region": "Antarctic",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -755,8 +1103,12 @@
   {
     "code": "ga",
     "name": "Gabon",
+    "endonyms": [
+      "Gabon"
+    ],
     "capital": "Libreville",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -764,8 +1116,12 @@
   {
     "code": "gm",
     "name": "Gambia",
+    "endonyms": [
+      "Gambia"
+    ],
     "capital": "Banjul",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -773,8 +1129,12 @@
   {
     "code": "ge",
     "name": "Georgia",
+    "endonyms": [
+      "საქართველო"
+    ],
     "capital": "Tbilisi",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Georgian"
     ]
@@ -782,8 +1142,12 @@
   {
     "code": "de",
     "name": "Germany",
+    "endonyms": [
+      "Deutschland"
+    ],
     "capital": "Berlin",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "German"
     ]
@@ -791,8 +1155,12 @@
   {
     "code": "gh",
     "name": "Ghana",
+    "endonyms": [
+      "Ghana"
+    ],
     "capital": "Accra",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -800,8 +1168,12 @@
   {
     "code": "gi",
     "name": "Gibraltar",
+    "endonyms": [
+      "Gibraltar"
+    ],
     "capital": "Gibraltar",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -809,8 +1181,12 @@
   {
     "code": "gr",
     "name": "Greece",
+    "endonyms": [
+      "Ελλάδα"
+    ],
     "capital": "Athens",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Greek"
     ]
@@ -818,8 +1194,12 @@
   {
     "code": "gl",
     "name": "Greenland",
+    "endonyms": [
+      "Kalaallit Nunaat"
+    ],
     "capital": "Nuuk",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "Greenlandic"
     ]
@@ -827,8 +1207,12 @@
   {
     "code": "gd",
     "name": "Grenada",
+    "endonyms": [
+      "Grenada"
+    ],
     "capital": "St. George's",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -836,8 +1220,12 @@
   {
     "code": "gp",
     "name": "Guadeloupe",
+    "endonyms": [
+      "Guadeloupe"
+    ],
     "capital": "Basse-Terre",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -845,8 +1233,13 @@
   {
     "code": "gu",
     "name": "Guam",
+    "endonyms": [
+      "Guåhån",
+      "Guam"
+    ],
     "capital": "Hagåtña",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "Chamorro",
       "English",
@@ -856,8 +1249,12 @@
   {
     "code": "gt",
     "name": "Guatemala",
+    "endonyms": [
+      "Guatemala"
+    ],
     "capital": "Guatemala City",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -865,8 +1262,14 @@
   {
     "code": "gg",
     "name": "Guernsey",
+    "endonyms": [
+      "Dgèrnésiais",
+      "Guernesey",
+      "Guernsey"
+    ],
     "capital": "St. Peter Port",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "French",
@@ -876,8 +1279,12 @@
   {
     "code": "gn",
     "name": "Guinea",
+    "endonyms": [
+      "Guinée"
+    ],
     "capital": "Conakry",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -885,8 +1292,12 @@
   {
     "code": "gw",
     "name": "Guinea-Bissau",
+    "endonyms": [
+      "Guiné-Bissau"
+    ],
     "capital": "Bissau",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese",
       "Upper Guinea Creole"
@@ -895,8 +1306,12 @@
   {
     "code": "gy",
     "name": "Guyana",
+    "endonyms": [
+      "Guyana"
+    ],
     "capital": "Georgetown",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -904,8 +1319,13 @@
   {
     "code": "ht",
     "name": "Haiti",
+    "endonyms": [
+      "Ayiti",
+      "Haïti"
+    ],
     "capital": "Port-au-Prince",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Haitian Creole"
@@ -914,8 +1334,12 @@
   {
     "code": "hm",
     "name": "Heard Island and McDonald Islands",
+    "endonyms": [
+      "Heard Island and McDonald Islands"
+    ],
     "capital": "",
     "region": "Antarctic",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -923,8 +1347,12 @@
   {
     "code": "hn",
     "name": "Honduras",
+    "endonyms": [
+      "Honduras"
+    ],
     "capital": "Tegucigalpa",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -932,8 +1360,13 @@
   {
     "code": "hk",
     "name": "Hong Kong",
+    "endonyms": [
+      "Hong Kong",
+      "香港"
+    ],
     "capital": "City of Victoria",
     "region": "Asia",
+    "status": "Territory / dependency",
     "languages": [
       "Chinese",
       "English"
@@ -942,8 +1375,12 @@
   {
     "code": "hu",
     "name": "Hungary",
+    "endonyms": [
+      "Magyarország"
+    ],
     "capital": "Budapest",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Hungarian"
     ]
@@ -951,8 +1388,12 @@
   {
     "code": "is",
     "name": "Iceland",
+    "endonyms": [
+      "Ísland"
+    ],
     "capital": "Reykjavik",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Icelandic"
     ]
@@ -960,8 +1401,14 @@
   {
     "code": "in",
     "name": "India",
+    "endonyms": [
+      "India",
+      "भारत",
+      "இந்தியா"
+    ],
     "capital": "New Delhi",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Hindi",
@@ -971,8 +1418,12 @@
   {
     "code": "id",
     "name": "Indonesia",
+    "endonyms": [
+      "Indonesia"
+    ],
     "capital": "Jakarta",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Indonesian"
     ]
@@ -980,8 +1431,12 @@
   {
     "code": "ir",
     "name": "Iran",
+    "endonyms": [
+      "ایران"
+    ],
     "capital": "Tehran",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Persian (Farsi)"
     ]
@@ -989,8 +1444,14 @@
   {
     "code": "iq",
     "name": "Iraq",
+    "endonyms": [
+      "العراق",
+      "کۆماری",
+      "ܩܘܼܛܢܵܐ"
+    ],
     "capital": "Baghdad",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "Aramaic",
@@ -1000,8 +1461,13 @@
   {
     "code": "ie",
     "name": "Ireland",
+    "endonyms": [
+      "Éire",
+      "Ireland"
+    ],
     "capital": "Dublin",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Irish"
@@ -1010,8 +1476,13 @@
   {
     "code": "im",
     "name": "Isle of Man",
+    "endonyms": [
+      "Isle of Man",
+      "Mannin"
+    ],
     "capital": "Douglas",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "Manx"
@@ -1020,8 +1491,13 @@
   {
     "code": "il",
     "name": "Israel",
+    "endonyms": [
+      "ישראל",
+      "إسرائيل"
+    ],
     "capital": "Jerusalem",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "Hebrew"
@@ -1030,8 +1506,12 @@
   {
     "code": "it",
     "name": "Italy",
+    "endonyms": [
+      "Italia"
+    ],
     "capital": "Rome",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Catalan",
       "Italian"
@@ -1040,8 +1520,12 @@
   {
     "code": "ci",
     "name": "Ivory Coast",
+    "endonyms": [
+      "Côte d'Ivoire"
+    ],
     "capital": "Yamoussoukro",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -1049,8 +1533,12 @@
   {
     "code": "jm",
     "name": "Jamaica",
+    "endonyms": [
+      "Jamaica"
+    ],
     "capital": "Kingston",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Jamaican Patois"
@@ -1059,8 +1547,12 @@
   {
     "code": "jp",
     "name": "Japan",
+    "endonyms": [
+      "日本"
+    ],
     "capital": "Tokyo",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Japanese"
     ]
@@ -1068,8 +1560,13 @@
   {
     "code": "je",
     "name": "Jersey",
+    "endonyms": [
+      "Jèrri",
+      "Jersey"
+    ],
     "capital": "Saint Helier",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "French",
@@ -1079,8 +1576,12 @@
   {
     "code": "jo",
     "name": "Jordan",
+    "endonyms": [
+      "الأردن"
+    ],
     "capital": "Amman",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1088,8 +1589,13 @@
   {
     "code": "kz",
     "name": "Kazakhstan",
+    "endonyms": [
+      "Казахстан",
+      "Қазақстан"
+    ],
     "capital": "Astana",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Kazakh",
       "Russian"
@@ -1098,8 +1604,12 @@
   {
     "code": "ke",
     "name": "Kenya",
+    "endonyms": [
+      "Kenya"
+    ],
     "capital": "Nairobi",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Swahili"
@@ -1108,8 +1618,12 @@
   {
     "code": "ki",
     "name": "Kiribati",
+    "endonyms": [
+      "Kiribati"
+    ],
     "capital": "South Tarawa",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Gilbertese"
@@ -1118,8 +1632,13 @@
   {
     "code": "xk",
     "name": "Kosovo",
+    "endonyms": [
+      "Kosova",
+      "Косово"
+    ],
     "capital": "Pristina",
     "region": "Europe",
+    "status": "Disputed territory",
     "languages": [
       "Albanian",
       "Serbian"
@@ -1128,8 +1647,12 @@
   {
     "code": "kw",
     "name": "Kuwait",
+    "endonyms": [
+      "الكويت"
+    ],
     "capital": "Kuwait City",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1137,8 +1660,13 @@
   {
     "code": "kg",
     "name": "Kyrgyzstan",
+    "endonyms": [
+      "Киргизия",
+      "Кыргызстан"
+    ],
     "capital": "Bishkek",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Kyrgyz",
       "Russian"
@@ -1147,8 +1675,12 @@
   {
     "code": "la",
     "name": "Laos",
+    "endonyms": [
+      "ສປປລາວ"
+    ],
     "capital": "Vientiane",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Lao"
     ]
@@ -1156,8 +1688,12 @@
   {
     "code": "lv",
     "name": "Latvia",
+    "endonyms": [
+      "Latvija"
+    ],
     "capital": "Riga",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Latvian"
     ]
@@ -1165,8 +1701,13 @@
   {
     "code": "lb",
     "name": "Lebanon",
+    "endonyms": [
+      "Liban",
+      "لبنان"
+    ],
     "capital": "Beirut",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "French"
@@ -1175,8 +1716,12 @@
   {
     "code": "ls",
     "name": "Lesotho",
+    "endonyms": [
+      "Lesotho"
+    ],
     "capital": "Maseru",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Sotho"
@@ -1185,8 +1730,12 @@
   {
     "code": "lr",
     "name": "Liberia",
+    "endonyms": [
+      "Liberia"
+    ],
     "capital": "Monrovia",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1194,8 +1743,12 @@
   {
     "code": "ly",
     "name": "Libya",
+    "endonyms": [
+      "‏ليبيا"
+    ],
     "capital": "Tripoli",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1203,8 +1756,12 @@
   {
     "code": "li",
     "name": "Liechtenstein",
+    "endonyms": [
+      "Liechtenstein"
+    ],
     "capital": "Vaduz",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "German"
     ]
@@ -1212,8 +1769,12 @@
   {
     "code": "lt",
     "name": "Lithuania",
+    "endonyms": [
+      "Lietuva"
+    ],
     "capital": "Vilnius",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Lithuanian"
     ]
@@ -1221,8 +1782,14 @@
   {
     "code": "lu",
     "name": "Luxembourg",
+    "endonyms": [
+      "Lëtzebuerg",
+      "Luxembourg",
+      "Luxemburg"
+    ],
     "capital": "Luxembourg",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "German",
@@ -1232,8 +1799,13 @@
   {
     "code": "mo",
     "name": "Macau",
+    "endonyms": [
+      "Macau",
+      "澳门"
+    ],
     "capital": "",
     "region": "Asia",
+    "status": "Territory / dependency",
     "languages": [
       "Chinese",
       "Portuguese"
@@ -1242,8 +1814,13 @@
   {
     "code": "mg",
     "name": "Madagascar",
+    "endonyms": [
+      "Madagascar",
+      "Madagasikara"
+    ],
     "capital": "Antananarivo",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Malagasy"
@@ -1252,8 +1829,13 @@
   {
     "code": "mw",
     "name": "Malawi",
+    "endonyms": [
+      "Malawi",
+      "Malaŵi"
+    ],
     "capital": "Lilongwe",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Chewa",
       "English"
@@ -1262,8 +1844,13 @@
   {
     "code": "my",
     "name": "Malaysia",
+    "endonyms": [
+      "Malaysia",
+      "مليسيا"
+    ],
     "capital": "Kuala Lumpur",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Malay"
@@ -1272,8 +1859,12 @@
   {
     "code": "mv",
     "name": "Maldives",
+    "endonyms": [
+      "ދިވެހިރާއްޖޭގެ"
+    ],
     "capital": "Malé",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Maldivian"
     ]
@@ -1281,8 +1872,12 @@
   {
     "code": "ml",
     "name": "Mali",
+    "endonyms": [
+      "Mali"
+    ],
     "capital": "Bamako",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -1290,8 +1885,12 @@
   {
     "code": "mt",
     "name": "Malta",
+    "endonyms": [
+      "Malta"
+    ],
     "capital": "Valletta",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Maltese"
@@ -1300,8 +1899,13 @@
   {
     "code": "mh",
     "name": "Marshall Islands",
+    "endonyms": [
+      "M̧ajeļ",
+      "Marshall Islands"
+    ],
     "capital": "Majuro",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Marshallese"
@@ -1310,8 +1914,12 @@
   {
     "code": "mq",
     "name": "Martinique",
+    "endonyms": [
+      "Martinique"
+    ],
     "capital": "Fort-de-France",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1319,8 +1927,12 @@
   {
     "code": "mr",
     "name": "Mauritania",
+    "endonyms": [
+      "موريتانيا"
+    ],
     "capital": "Nouakchott",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1328,8 +1940,14 @@
   {
     "code": "mu",
     "name": "Mauritius",
+    "endonyms": [
+      "Maurice",
+      "Mauritius",
+      "Moris"
+    ],
     "capital": "Port Louis",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "French",
@@ -1339,8 +1957,12 @@
   {
     "code": "yt",
     "name": "Mayotte",
+    "endonyms": [
+      "Mayotte"
+    ],
     "capital": "Mamoudzou",
     "region": "Africa",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1348,8 +1970,12 @@
   {
     "code": "mx",
     "name": "Mexico",
+    "endonyms": [
+      "México"
+    ],
     "capital": "Mexico City",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -1357,8 +1983,12 @@
   {
     "code": "fm",
     "name": "Micronesia",
+    "endonyms": [
+      "Micronesia"
+    ],
     "capital": "Palikir",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1366,8 +1996,12 @@
   {
     "code": "md",
     "name": "Moldova",
+    "endonyms": [
+      "Moldova"
+    ],
     "capital": "Chișinău",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Romanian"
     ]
@@ -1375,8 +2009,12 @@
   {
     "code": "mc",
     "name": "Monaco",
+    "endonyms": [
+      "Monaco"
+    ],
     "capital": "Monaco",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -1384,8 +2022,12 @@
   {
     "code": "mn",
     "name": "Mongolia",
+    "endonyms": [
+      "Монгол улс"
+    ],
     "capital": "Ulan Bator",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Mongolian"
     ]
@@ -1393,8 +2035,12 @@
   {
     "code": "me",
     "name": "Montenegro",
+    "endonyms": [
+      "Црна Гора"
+    ],
     "capital": "Podgorica",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Montenegrin"
     ]
@@ -1402,8 +2048,12 @@
   {
     "code": "ms",
     "name": "Montserrat",
+    "endonyms": [
+      "Montserrat"
+    ],
     "capital": "Plymouth",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -1411,8 +2061,13 @@
   {
     "code": "ma",
     "name": "Morocco",
+    "endonyms": [
+      "المغرب",
+      "ⵍⵎⴰⵖⵔⵉⴱ"
+    ],
     "capital": "Rabat",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "Berber"
@@ -1421,8 +2076,12 @@
   {
     "code": "mz",
     "name": "Mozambique",
+    "endonyms": [
+      "Moçambique"
+    ],
     "capital": "Maputo",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -1430,8 +2089,12 @@
   {
     "code": "mm",
     "name": "Myanmar",
+    "endonyms": [
+      "မြန်မာ"
+    ],
     "capital": "Naypyidaw",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Burmese"
     ]
@@ -1439,8 +2102,13 @@
   {
     "code": "na",
     "name": "Namibia",
+    "endonyms": [
+      "Namibia",
+      "Namibië"
+    ],
     "capital": "Windhoek",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Afrikaans",
       "English",
@@ -1456,8 +2124,12 @@
   {
     "code": "nr",
     "name": "Nauru",
+    "endonyms": [
+      "Nauru"
+    ],
     "capital": "Yaren",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Nauru"
@@ -1466,8 +2138,12 @@
   {
     "code": "np",
     "name": "Nepal",
+    "endonyms": [
+      "नेपाल"
+    ],
     "capital": "Kathmandu",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Nepali"
     ]
@@ -1475,8 +2151,12 @@
   {
     "code": "nl",
     "name": "Netherlands",
+    "endonyms": [
+      "Nederland"
+    ],
     "capital": "Amsterdam",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Dutch"
     ]
@@ -1484,8 +2164,12 @@
   {
     "code": "nc",
     "name": "New Caledonia",
+    "endonyms": [
+      "Nouvelle-Calédonie"
+    ],
     "capital": "Nouméa",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1493,8 +2177,13 @@
   {
     "code": "nz",
     "name": "New Zealand",
+    "endonyms": [
+      "Aotearoa",
+      "New Zealand"
+    ],
     "capital": "Wellington",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Māori",
@@ -1504,8 +2193,12 @@
   {
     "code": "ni",
     "name": "Nicaragua",
+    "endonyms": [
+      "Nicaragua"
+    ],
     "capital": "Managua",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -1513,8 +2206,12 @@
   {
     "code": "ne",
     "name": "Niger",
+    "endonyms": [
+      "Niger"
+    ],
     "capital": "Niamey",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -1522,8 +2219,12 @@
   {
     "code": "ng",
     "name": "Nigeria",
+    "endonyms": [
+      "Nigeria"
+    ],
     "capital": "Abuja",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1531,8 +2232,13 @@
   {
     "code": "nu",
     "name": "Niue",
+    "endonyms": [
+      "Niue",
+      "Niuē"
+    ],
     "capital": "Alofi",
     "region": "Oceania",
+    "status": "Associated state",
     "languages": [
       "English",
       "Niuean"
@@ -1541,8 +2247,13 @@
   {
     "code": "nf",
     "name": "Norfolk Island",
+    "endonyms": [
+      "Norf'k Ailen",
+      "Norfolk Island"
+    ],
     "capital": "Kingston",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "Norfuk"
@@ -1551,8 +2262,12 @@
   {
     "code": "kp",
     "name": "North Korea",
+    "endonyms": [
+      "조선"
+    ],
     "capital": "Pyongyang",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Korean"
     ]
@@ -1560,8 +2275,12 @@
   {
     "code": "mk",
     "name": "North Macedonia",
+    "endonyms": [
+      "Македонија"
+    ],
     "capital": "Skopje",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Macedonian"
     ]
@@ -1569,8 +2288,13 @@
   {
     "code": "mp",
     "name": "Northern Mariana Islands",
+    "endonyms": [
+      "Na Islas Mariånas",
+      "Northern Mariana Islands"
+    ],
     "capital": "Saipan",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "Carolinian",
       "Chamorro",
@@ -1580,8 +2304,14 @@
   {
     "code": "no",
     "name": "Norway",
+    "endonyms": [
+      "Noreg",
+      "Norge",
+      "Norgga"
+    ],
     "capital": "Oslo",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Norwegian Bokmål",
       "Norwegian Nynorsk",
@@ -1591,8 +2321,12 @@
   {
     "code": "om",
     "name": "Oman",
+    "endonyms": [
+      "عمان"
+    ],
     "capital": "Muscat",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1600,8 +2334,13 @@
   {
     "code": "pk",
     "name": "Pakistan",
+    "endonyms": [
+      "Pakistan",
+      "پاكستان"
+    ],
     "capital": "Islamabad",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Urdu"
@@ -1610,8 +2349,13 @@
   {
     "code": "pw",
     "name": "Palau",
+    "endonyms": [
+      "Belau",
+      "Palau"
+    ],
     "capital": "Ngerulmud",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Palauan"
@@ -1620,8 +2364,12 @@
   {
     "code": "ps",
     "name": "Palestine",
+    "endonyms": [
+      "فلسطين"
+    ],
     "capital": "Ramallah",
     "region": "Asia",
+    "status": "Observer state",
     "languages": [
       "Arabic"
     ]
@@ -1629,8 +2377,12 @@
   {
     "code": "pa",
     "name": "Panama",
+    "endonyms": [
+      "Panamá"
+    ],
     "capital": "Panama City",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -1638,8 +2390,14 @@
   {
     "code": "pg",
     "name": "Papua New Guinea",
+    "endonyms": [
+      "Papua New Guinea",
+      "Papua Niu Gini",
+      "Papua Niugini"
+    ],
     "capital": "Port Moresby",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Hiri Motu",
@@ -1649,8 +2407,13 @@
   {
     "code": "py",
     "name": "Paraguay",
+    "endonyms": [
+      "Paraguái",
+      "Paraguay"
+    ],
     "capital": "Asunción",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Guaraní",
       "Spanish"
@@ -1659,8 +2422,13 @@
   {
     "code": "pe",
     "name": "Peru",
+    "endonyms": [
+      "Perú",
+      "Piruw"
+    ],
     "capital": "Lima",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Aymara",
       "Quechua",
@@ -1670,8 +2438,13 @@
   {
     "code": "ph",
     "name": "Philippines",
+    "endonyms": [
+      "Philippines",
+      "Pilipinas"
+    ],
     "capital": "Manila",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Filipino"
@@ -1680,8 +2453,12 @@
   {
     "code": "pn",
     "name": "Pitcairn Islands",
+    "endonyms": [
+      "Pitcairn Islands"
+    ],
     "capital": "Adamstown",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -1689,8 +2466,12 @@
   {
     "code": "pl",
     "name": "Poland",
+    "endonyms": [
+      "Polska"
+    ],
     "capital": "Warsaw",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Polish"
     ]
@@ -1698,8 +2479,12 @@
   {
     "code": "pt",
     "name": "Portugal",
+    "endonyms": [
+      "Portugal"
+    ],
     "capital": "Lisbon",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -1707,8 +2492,12 @@
   {
     "code": "pr",
     "name": "Puerto Rico",
+    "endonyms": [
+      "Puerto Rico"
+    ],
     "capital": "San Juan",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "Spanish"
@@ -1717,8 +2506,12 @@
   {
     "code": "qa",
     "name": "Qatar",
+    "endonyms": [
+      "قطر"
+    ],
     "capital": "Doha",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1726,8 +2519,14 @@
   {
     "code": "cg",
     "name": "Republic of the Congo",
+    "endonyms": [
+      "Repubilika ya Kongo",
+      "Republíki ya Kongó",
+      "République du Congo"
+    ],
     "capital": "Brazzaville",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Kikongo",
@@ -1737,8 +2536,12 @@
   {
     "code": "re",
     "name": "Réunion",
+    "endonyms": [
+      "La Réunion"
+    ],
     "capital": "Saint-Denis",
     "region": "Africa",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1746,8 +2549,12 @@
   {
     "code": "ro",
     "name": "Romania",
+    "endonyms": [
+      "România"
+    ],
     "capital": "Bucharest",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Romanian"
     ]
@@ -1755,8 +2562,12 @@
   {
     "code": "ru",
     "name": "Russia",
+    "endonyms": [
+      "Россия"
+    ],
     "capital": "Moscow",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Russian"
     ]
@@ -1764,8 +2575,12 @@
   {
     "code": "rw",
     "name": "Rwanda",
+    "endonyms": [
+      "Rwanda"
+    ],
     "capital": "Kigali",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "French",
@@ -1775,8 +2590,12 @@
   {
     "code": "bl",
     "name": "Saint Barthélemy",
+    "endonyms": [
+      "Saint-Barthélemy"
+    ],
     "capital": "Gustavia",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1784,8 +2603,12 @@
   {
     "code": "sh",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "endonyms": [
+      "Saint Helena, Ascension and Tristan da Cunha"
+    ],
     "capital": "Jamestown",
     "region": "Africa",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -1793,8 +2616,12 @@
   {
     "code": "kn",
     "name": "Saint Kitts and Nevis",
+    "endonyms": [
+      "Saint Kitts and Nevis"
+    ],
     "capital": "Basseterre",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1802,8 +2629,12 @@
   {
     "code": "lc",
     "name": "Saint Lucia",
+    "endonyms": [
+      "Saint Lucia"
+    ],
     "capital": "Castries",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1811,8 +2642,12 @@
   {
     "code": "mf",
     "name": "Saint Martin",
+    "endonyms": [
+      "Saint-Martin"
+    ],
     "capital": "Marigot",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1820,8 +2655,12 @@
   {
     "code": "pm",
     "name": "Saint Pierre and Miquelon",
+    "endonyms": [
+      "Saint-Pierre-et-Miquelon"
+    ],
     "capital": "Saint-Pierre",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -1829,8 +2668,12 @@
   {
     "code": "vc",
     "name": "Saint Vincent and the Grenadines",
+    "endonyms": [
+      "Saint Vincent and the Grenadines"
+    ],
     "capital": "Kingstown",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1838,8 +2681,13 @@
   {
     "code": "ws",
     "name": "Samoa",
+    "endonyms": [
+      "Samoa",
+      "Sāmoa"
+    ],
     "capital": "Apia",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Samoan"
@@ -1848,8 +2696,12 @@
   {
     "code": "sm",
     "name": "San Marino",
+    "endonyms": [
+      "San Marino"
+    ],
     "capital": "City of San Marino",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Italian"
     ]
@@ -1857,8 +2709,12 @@
   {
     "code": "st",
     "name": "São Tomé and Príncipe",
+    "endonyms": [
+      "São Tomé e Príncipe"
+    ],
     "capital": "São Tomé",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese"
     ]
@@ -1866,8 +2722,12 @@
   {
     "code": "sa",
     "name": "Saudi Arabia",
+    "endonyms": [
+      "العربية السعودية"
+    ],
     "capital": "Riyadh",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -1875,8 +2735,12 @@
   {
     "code": "sn",
     "name": "Senegal",
+    "endonyms": [
+      "Sénégal"
+    ],
     "capital": "Dakar",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -1884,8 +2748,12 @@
   {
     "code": "rs",
     "name": "Serbia",
+    "endonyms": [
+      "Србија"
+    ],
     "capital": "Belgrade",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Serbian"
     ]
@@ -1893,8 +2761,13 @@
   {
     "code": "sc",
     "name": "Seychelles",
+    "endonyms": [
+      "Sesel",
+      "Seychelles"
+    ],
     "capital": "Victoria",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "French",
@@ -1904,8 +2777,12 @@
   {
     "code": "sl",
     "name": "Sierra Leone",
+    "endonyms": [
+      "Sierra Leone"
+    ],
     "capital": "Freetown",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1913,8 +2790,15 @@
   {
     "code": "sg",
     "name": "Singapore",
+    "endonyms": [
+      "Singapore",
+      "Singapura",
+      "சிங்கப்பூர்",
+      "新加坡"
+    ],
     "capital": "Singapore",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Chinese",
       "English",
@@ -1925,8 +2809,13 @@
   {
     "code": "sx",
     "name": "Sint Maarten",
+    "endonyms": [
+      "Saint-Martin",
+      "Sint Maarten"
+    ],
     "capital": "Philipsburg",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "Dutch",
       "English",
@@ -1936,8 +2825,12 @@
   {
     "code": "sk",
     "name": "Slovakia",
+    "endonyms": [
+      "Slovensko"
+    ],
     "capital": "Bratislava",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Slovak"
     ]
@@ -1945,8 +2838,12 @@
   {
     "code": "si",
     "name": "Slovenia",
+    "endonyms": [
+      "Slovenija"
+    ],
     "capital": "Ljubljana",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Slovene"
     ]
@@ -1954,8 +2851,12 @@
   {
     "code": "sb",
     "name": "Solomon Islands",
+    "endonyms": [
+      "Solomon Islands"
+    ],
     "capital": "Honiara",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -1963,8 +2864,13 @@
   {
     "code": "so",
     "name": "Somalia",
+    "endonyms": [
+      "Soomaaliya",
+      "الصومال‎‎"
+    ],
     "capital": "Mogadishu",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "Somali"
@@ -1973,8 +2879,20 @@
   {
     "code": "za",
     "name": "South Africa",
+    "endonyms": [
+      "Aforika Borwa",
+      "Afrika Borwa",
+      "Afrika Dzonga",
+      "Afrika-Borwa",
+      "Afurika Tshipembe",
+      "Mzantsi Afrika",
+      "Ningizimu Afrika",
+      "Sewula Afrika",
+      "South Africa"
+    ],
     "capital": "Pretoria",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Afrikaans",
       "English",
@@ -1992,8 +2910,12 @@
   {
     "code": "gs",
     "name": "South Georgia",
+    "endonyms": [
+      "South Georgia"
+    ],
     "capital": "King Edward Point",
     "region": "Antarctic",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -2001,8 +2923,12 @@
   {
     "code": "kr",
     "name": "South Korea",
+    "endonyms": [
+      "한국"
+    ],
     "capital": "Seoul",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Korean"
     ]
@@ -2010,8 +2936,12 @@
   {
     "code": "ss",
     "name": "South Sudan",
+    "endonyms": [
+      "South Sudan"
+    ],
     "capital": "Juba",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -2019,8 +2949,12 @@
   {
     "code": "es",
     "name": "Spain",
+    "endonyms": [
+      "España"
+    ],
     "capital": "Madrid",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Basque",
       "Catalan",
@@ -2031,8 +2965,13 @@
   {
     "code": "lk",
     "name": "Sri Lanka",
+    "endonyms": [
+      "இலங்கை",
+      "ශ්‍රී ලංකාව"
+    ],
     "capital": "Sri Jayawardenepura Kotte",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Sinhala",
       "Tamil"
@@ -2041,8 +2980,13 @@
   {
     "code": "sd",
     "name": "Sudan",
+    "endonyms": [
+      "Sudan",
+      "السودان"
+    ],
     "capital": "Khartoum",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic",
       "English"
@@ -2051,8 +2995,12 @@
   {
     "code": "sr",
     "name": "Suriname",
+    "endonyms": [
+      "Suriname"
+    ],
     "capital": "Paramaribo",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Dutch"
     ]
@@ -2060,8 +3008,12 @@
   {
     "code": "sj",
     "name": "Svalbard and Jan Mayen",
+    "endonyms": [
+      "Svalbard og Jan Mayen"
+    ],
     "capital": "Longyearbyen",
     "region": "Europe",
+    "status": "Territory / dependency",
     "languages": [
       "Norwegian"
     ]
@@ -2069,8 +3021,12 @@
   {
     "code": "se",
     "name": "Sweden",
+    "endonyms": [
+      "Sverige"
+    ],
     "capital": "Stockholm",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Swedish"
     ]
@@ -2078,8 +3034,15 @@
   {
     "code": "ch",
     "name": "Switzerland",
+    "endonyms": [
+      "Schweiz",
+      "Suisse",
+      "Svizra",
+      "Svizzera"
+    ],
     "capital": "Bern",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "French",
       "Italian",
@@ -2090,8 +3053,12 @@
   {
     "code": "sy",
     "name": "Syria",
+    "endonyms": [
+      "سوريا"
+    ],
     "capital": "Damascus",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -2099,8 +3066,12 @@
   {
     "code": "tw",
     "name": "Taiwan",
+    "endonyms": [
+      "台灣"
+    ],
     "capital": "Taipei",
     "region": "Asia",
+    "status": "Disputed territory",
     "languages": [
       "Chinese"
     ]
@@ -2108,8 +3079,13 @@
   {
     "code": "tj",
     "name": "Tajikistan",
+    "endonyms": [
+      "Таджикистан",
+      "Тоҷикистон"
+    ],
     "capital": "Dushanbe",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Russian",
       "Tajik"
@@ -2118,8 +3094,12 @@
   {
     "code": "tz",
     "name": "Tanzania",
+    "endonyms": [
+      "Tanzania"
+    ],
     "capital": "Dodoma",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Swahili"
@@ -2128,8 +3108,12 @@
   {
     "code": "th",
     "name": "Thailand",
+    "endonyms": [
+      "ประเทศไทย"
+    ],
     "capital": "Bangkok",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Thai"
     ]
@@ -2137,8 +3121,13 @@
   {
     "code": "tl",
     "name": "Timor-Leste",
+    "endonyms": [
+      "Timor-Leste",
+      "Timór-Leste"
+    ],
     "capital": "Dili",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Portuguese",
       "Tetum"
@@ -2147,8 +3136,12 @@
   {
     "code": "tg",
     "name": "Togo",
+    "endonyms": [
+      "Togo"
+    ],
     "capital": "Lomé",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "French"
     ]
@@ -2156,8 +3149,12 @@
   {
     "code": "tk",
     "name": "Tokelau",
+    "endonyms": [
+      "Tokelau"
+    ],
     "capital": "Fakaofo",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "English",
       "Samoan",
@@ -2167,8 +3164,12 @@
   {
     "code": "to",
     "name": "Tonga",
+    "endonyms": [
+      "Tonga"
+    ],
     "capital": "Nuku'alofa",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Tongan"
@@ -2177,8 +3178,12 @@
   {
     "code": "tt",
     "name": "Trinidad and Tobago",
+    "endonyms": [
+      "Trinidad and Tobago"
+    ],
     "capital": "Port of Spain",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -2186,8 +3191,12 @@
   {
     "code": "tn",
     "name": "Tunisia",
+    "endonyms": [
+      "تونس"
+    ],
     "capital": "Tunis",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -2195,8 +3204,12 @@
   {
     "code": "tr",
     "name": "Turkey",
+    "endonyms": [
+      "Türkiye"
+    ],
     "capital": "Ankara",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Turkish"
     ]
@@ -2204,8 +3217,13 @@
   {
     "code": "tm",
     "name": "Turkmenistan",
+    "endonyms": [
+      "Türkmenistan",
+      "Туркмения"
+    ],
     "capital": "Ashgabat",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Russian",
       "Turkmen"
@@ -2214,8 +3232,12 @@
   {
     "code": "tc",
     "name": "Turks and Caicos Islands",
+    "endonyms": [
+      "Turks and Caicos Islands"
+    ],
     "capital": "Cockburn Town",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -2223,8 +3245,12 @@
   {
     "code": "tv",
     "name": "Tuvalu",
+    "endonyms": [
+      "Tuvalu"
+    ],
     "capital": "Funafuti",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Tuvaluan"
@@ -2233,8 +3259,12 @@
   {
     "code": "ug",
     "name": "Uganda",
+    "endonyms": [
+      "Uganda"
+    ],
     "capital": "Kampala",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English",
       "Swahili"
@@ -2243,8 +3273,12 @@
   {
     "code": "ua",
     "name": "Ukraine",
+    "endonyms": [
+      "Україна"
+    ],
     "capital": "Kyiv",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "Ukrainian"
     ]
@@ -2252,8 +3286,12 @@
   {
     "code": "ae",
     "name": "United Arab Emirates",
+    "endonyms": [
+      "دولة الإمارات العربية المتحدة"
+    ],
     "capital": "Abu Dhabi",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -2261,8 +3299,12 @@
   {
     "code": "gb",
     "name": "United Kingdom",
+    "endonyms": [
+      "United Kingdom"
+    ],
     "capital": "London",
     "region": "Europe",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -2270,8 +3312,12 @@
   {
     "code": "us",
     "name": "United States",
+    "endonyms": [
+      "United States"
+    ],
     "capital": "Washington, D.C.",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -2279,8 +3325,12 @@
   {
     "code": "um",
     "name": "United States Minor Outlying Islands",
+    "endonyms": [
+      "United States Minor Outlying Islands"
+    ],
     "capital": "Washington DC",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -2288,8 +3338,12 @@
   {
     "code": "vi",
     "name": "United States Virgin Islands",
+    "endonyms": [
+      "United States Virgin Islands"
+    ],
     "capital": "Charlotte Amalie",
     "region": "Americas",
+    "status": "Territory / dependency",
     "languages": [
       "English"
     ]
@@ -2297,8 +3351,12 @@
   {
     "code": "uy",
     "name": "Uruguay",
+    "endonyms": [
+      "Uruguay"
+    ],
     "capital": "Montevideo",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -2306,8 +3364,13 @@
   {
     "code": "uz",
     "name": "Uzbekistan",
+    "endonyms": [
+      "O‘zbekiston",
+      "Узбекистан"
+    ],
     "capital": "Tashkent",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Russian",
       "Uzbek"
@@ -2316,8 +3379,12 @@
   {
     "code": "vu",
     "name": "Vanuatu",
+    "endonyms": [
+      "Vanuatu"
+    ],
     "capital": "Port Vila",
     "region": "Oceania",
+    "status": "Sovereign state",
     "languages": [
       "Bislama",
       "English",
@@ -2327,8 +3394,13 @@
   {
     "code": "va",
     "name": "Vatican City",
+    "endonyms": [
+      "Vaticanæ",
+      "Vaticano"
+    ],
     "capital": "Vatican City",
     "region": "Europe",
+    "status": "Observer state",
     "languages": [
       "Italian",
       "Latin"
@@ -2337,8 +3409,12 @@
   {
     "code": "ve",
     "name": "Venezuela",
+    "endonyms": [
+      "Venezuela"
+    ],
     "capital": "Caracas",
     "region": "Americas",
+    "status": "Sovereign state",
     "languages": [
       "Spanish"
     ]
@@ -2346,8 +3422,12 @@
   {
     "code": "vn",
     "name": "Vietnam",
+    "endonyms": [
+      "Việt Nam"
+    ],
     "capital": "Hanoi",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Vietnamese"
     ]
@@ -2355,8 +3435,12 @@
   {
     "code": "wf",
     "name": "Wallis and Futuna",
+    "endonyms": [
+      "Wallis et Futuna"
+    ],
     "capital": "Mata-Utu",
     "region": "Oceania",
+    "status": "Territory / dependency",
     "languages": [
       "French"
     ]
@@ -2364,8 +3448,14 @@
   {
     "code": "eh",
     "name": "Western Sahara",
+    "endonyms": [
+      "Sahara Occidental",
+      "Western Sahara",
+      "الصحراء الغربية"
+    ],
     "capital": "El Aaiún",
     "region": "Africa",
+    "status": "Disputed territory",
     "languages": [
       "Berber",
       "Hassaniya",
@@ -2375,8 +3465,12 @@
   {
     "code": "ye",
     "name": "Yemen",
+    "endonyms": [
+      "اليَمَن"
+    ],
     "capital": "Sana'a",
     "region": "Asia",
+    "status": "Sovereign state",
     "languages": [
       "Arabic"
     ]
@@ -2384,8 +3478,12 @@
   {
     "code": "zm",
     "name": "Zambia",
+    "endonyms": [
+      "Zambia"
+    ],
     "capital": "Lusaka",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "English"
     ]
@@ -2393,8 +3491,12 @@
   {
     "code": "zw",
     "name": "Zimbabwe",
+    "endonyms": [
+      "Zimbabwe"
+    ],
     "capital": "Harare",
     "region": "Africa",
+    "status": "Sovereign state",
     "languages": [
       "Chewa",
       "Chibarwe",

@@ -115,7 +115,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   font-size: 14px;
-  min-width: 760px;
+  min-width: 1060px;
 }
 
 th,
@@ -183,6 +183,12 @@ td .flag {
   display: block;
   border: 1px solid #e3e6ea;
   cursor: zoom-in;
+}
+
+.status-cell {
+  color: #374151;
+  font-size: 13px;
+  font-weight: 600;
 }
 
 /* Enlarged flag shown centered on screen while hovering the flag cell. */
@@ -272,7 +278,7 @@ td.empty {
     top: 0;
     z-index: 5;
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(6, minmax(0, 1fr));
     gap: 1px;
     background: #d8dee6;
   }
@@ -340,7 +346,7 @@ td.empty {
   }
 
   .flag-cell {
-    grid-row: 1 / span 4;
+    grid-row: 1 / span 6;
   }
 
   td .flag {

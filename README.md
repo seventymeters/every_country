@@ -1,12 +1,13 @@
 # every_country
 
-Easy country info for memorization, flash cards, and quick lookup.
+Easy country and territory info for memorization, flash cards, and quick lookup.
 
 Live site: [https://seventymeters.github.io/every_country/](https://seventymeters.github.io/every_country/)
 
-`every_country` is a tiny static study tool with flags, countries, capitals,
-regions, and spoken languages. Sort the table, search by any field, and use the
-mobile-friendly card layout when you want to review countries away from a desk.
+`every_country` is a tiny static study tool with flags, countries and
+territories, endonyms, capitals, regions, political status, and spoken
+languages. Sort the table, search by any field, and use the mobile-friendly card
+layout when you want to review away from a desk.
 
 ## Run locally
 

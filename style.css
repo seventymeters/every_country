@@ -277,24 +277,30 @@ td.empty {
     position: sticky;
     top: 0;
     z-index: 5;
-    display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr));
-    gap: 1px;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+    scrollbar-width: thin;
     background: #d8dee6;
   }
 
   thead tr {
-    display: contents;
+    display: grid;
+    grid-template-columns: repeat(5, minmax(116px, 1fr));
+    gap: 1px;
+    min-width: 580px;
   }
 
   thead th {
     border: 0;
     padding: 0;
     position: static;
-    white-space: normal;
+    white-space: nowrap;
   }
 
-  thead .flag-col {
+  thead .flag-col,
+  thead th[data-key="name"] {
     display: none;
   }
 

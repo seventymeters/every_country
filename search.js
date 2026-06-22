@@ -7,7 +7,15 @@ export function normalizeText(value) {
 
 export function searchableText(row) {
   return normalizeText(
-    [row.name, ...(row.endonyms ?? []), row.capital, row.region, row.status, ...(row.languages ?? [])]
+    [
+      row.name,
+      ...(row.endonyms ?? []),
+      row.capital,
+      row.region,
+      row.status,
+      row.population,
+      ...(row.languages ?? []),
+    ]
       .filter(Boolean)
       .join(' '),
   );

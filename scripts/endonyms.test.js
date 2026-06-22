@@ -11,7 +11,7 @@ test('removes duplicate endonyms that differ only by accents or format marks', (
   assert.deepEqual(cleanEndonyms(['Белару́сь', 'Беларусь'], 'Belarus'), ['Белару́сь']);
 });
 
-test('shows the English exonym in parentheses after a distinct endonym', () => {
-  assert.equal(displayEndonyms(['الجزائر'], 'Algeria'), 'الجزائر (Algeria)');
-  assert.equal(displayEndonyms(['Tchad', 'تشاد‎'], 'Chad'), 'Tchad (Chad), تشاد‎ (Chad)');
+test('shows distinct endonyms without repeating the English exonym', () => {
+  assert.equal(displayEndonyms(['الجزائر'], 'Algeria'), 'الجزائر');
+  assert.equal(displayEndonyms(['Tchad', 'تشاد‎'], 'Chad'), 'Tchad, تشاد‎');
 });

@@ -20,7 +20,5 @@ export function cleanEndonyms(endonyms, exonym) {
 }
 
 export function displayEndonyms(endonyms, exonym) {
-  return cleanEndonyms(endonyms, exonym)
-    .map((endonym) => `${endonym} (${exonym})`)
-    .join(', ');
+  return cleanEndonyms(endonyms, exonym).join(', ');
 }

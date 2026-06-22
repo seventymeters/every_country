@@ -3,6 +3,7 @@ import { filterRows, withSearchText } from './search.js';
 import { displayEndonyms } from './endonyms.js';
 
 const state = { rows: [], visibleRows: [], sortKey: 'name', sortDir: 'asc', query: '' };
+const numberFormatter = new Intl.NumberFormat(undefined);
 const flagPreview = document.querySelector('#flag-preview');
 const count = document.querySelector('#count');
 const search = document.querySelector('#search');
@@ -41,9 +42,14 @@ function rowToTr(c) {
     td(c.capital ?? '', 'Capital'),
     td(c.region ?? '', 'Region'),
     td(c.status ?? '', 'Status', 'status-cell'),
+    td(formatPopulation(c.population), 'Population', 'number-cell'),
     td((c.languages ?? []).join(', '), 'Languages'),
   );
   return tr;
+}
+
+function formatPopulation(population) {
+  return Number.isFinite(population) && population >= 0 ? numberFormatter.format(population) : '';
 }
 
 function showFlagPreview(src) {
@@ -61,7 +67,7 @@ function render() {
   if (state.visibleRows.length === 0) {
     const tr = document.createElement('tr');
     const cell = document.createElement('td');
-    cell.colSpan = 7;
+    cell.colSpan = 8;
     cell.className = 'empty';
     cell.textContent = 'No matching countries.';
     tr.append(cell);
@@ -136,7 +142,7 @@ function showError() {
   const tbody = document.querySelector('#country-table tbody');
   const tr = document.createElement('tr');
   const cell = document.createElement('td');
-  cell.colSpan = 7;
+  cell.colSpan = 8;
   cell.className = 'error';
   cell.textContent = "Couldn't load country data.";
   tr.append(cell);

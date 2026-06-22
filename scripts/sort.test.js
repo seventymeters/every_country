@@ -8,6 +8,7 @@ const rows = [
     endonyms: ['Brasil'],
     capital: 'Brasília',
     region: 'Americas',
+    population: 203080756,
     languages: ['Portuguese'],
   },
   {
@@ -15,6 +16,7 @@ const rows = [
     endonyms: ['Canada'],
     capital: 'Ottawa',
     region: 'Americas',
+    population: 38005238,
     languages: ['English', 'French'],
   },
   {
@@ -22,6 +24,7 @@ const rows = [
     endonyms: ["Côte d'Ivoire"],
     capital: 'Yamoussoukro',
     region: 'Africa',
+    population: 26378275,
     languages: ['French'],
   },
   {
@@ -29,6 +32,7 @@ const rows = [
     endonyms: ['Cuba'],
     capital: 'Havana',
     region: 'Americas',
+    population: 11326616,
     languages: ['Spanish'],
   },
   {
@@ -36,6 +40,7 @@ const rows = [
     endonyms: ['Tchad', 'تشاد'],
     capital: '',
     region: 'Africa',
+    population: 16425859,
     languages: ['Arabic', 'French'],
   },
 ];
@@ -59,6 +64,11 @@ test('empty values group first when ascending', () => {
 test('languages sort by comma-joined string', () => {
   const got = [...rows].sort(makeComparator('languages', 'asc')).map((r) => r.languages.join(', '));
   assert.deepEqual(got, ['Arabic, French', 'English, French', 'French', 'Portuguese', 'Spanish']);
+});
+
+test('population sorts numerically', () => {
+  const got = [...rows].sort(makeComparator('population', 'asc')).map((r) => r.name);
+  assert.deepEqual(got, ['cuba', 'Chad', "Côte d'Ivoire", 'Canada', 'Brazil']);
 });
 
 test('endonyms sort by comma-joined string', () => {

@@ -9,6 +9,7 @@ const rows = [
     capital: 'Mariehamn',
     region: 'Europe',
     status: 'Territory / dependency',
+    population: 29458,
     languages: ['Swedish'],
   },
   {
@@ -17,6 +18,7 @@ const rows = [
     capital: 'Buenos Aires',
     region: 'Americas',
     status: 'Sovereign state',
+    population: 45376763,
     languages: ['Guaraní', 'Spanish'],
   },
   {
@@ -25,6 +27,7 @@ const rows = [
     capital: 'Brasília',
     region: 'Americas',
     status: 'Sovereign state',
+    population: 203080756,
     languages: ['Portuguese'],
   },
   {
@@ -33,6 +36,7 @@ const rows = [
     capital: 'Tokyo',
     region: 'Asia',
     status: 'Sovereign state',
+    population: 125836021,
     languages: ['Japanese'],
   },
 ].map(withSearchText);
@@ -42,7 +46,7 @@ test('normalizes case and accents', () => {
 });
 
 test('builds searchable text from country fields', () => {
-  assert.equal(searchableText(rows[3]), 'japan 日本 tokyo asia sovereign state japanese');
+  assert.equal(searchableText(rows[3]), 'japan 日本 tokyo asia sovereign state 125836021 japanese');
 });
 
 test('filters by country, endonym, capital, region, status, and language', () => {
@@ -51,6 +55,7 @@ test('filters by country, endonym, capital, region, status, and language', () =>
   assert.deepEqual(filterRows(rows, 'brasilia').map((row) => row.name), ['Brazil']);
   assert.deepEqual(filterRows(rows, 'americas').map((row) => row.name), ['Argentina', 'Brazil']);
   assert.deepEqual(filterRows(rows, 'territory').map((row) => row.name), ['Åland Islands']);
+  assert.deepEqual(filterRows(rows, '203080756').map((row) => row.name), ['Brazil']);
   assert.deepEqual(filterRows(rows, 'guarani').map((row) => row.name), ['Argentina']);
 });
 

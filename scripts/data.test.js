@@ -27,6 +27,7 @@ test('every entry has required fields and a flag file', () => {
       `duplicate endonyms for ${c.code}`,
     );
     assert.ok(c.status && typeof c.status === 'string', `bad status for ${c.code}`);
+    assert.ok(Number.isInteger(c.population) && c.population >= 0, `bad population for ${c.code}`);
     assert.ok(Array.isArray(c.languages), `languages not array for ${c.code}`);
     assert.ok(
       existsSync(path.join(ROOT, 'flags', `${c.code}.svg`)),

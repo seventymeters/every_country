@@ -191,6 +191,11 @@ td .flag {
   font-weight: 600;
 }
 
+.number-cell {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
 /* Enlarged flag shown centered on screen while hovering the flag cell. */
 .flag-preview {
   display: none;
@@ -287,9 +292,9 @@ td.empty {
 
   thead tr {
     display: grid;
-    grid-template-columns: repeat(5, minmax(116px, 1fr));
+    grid-template-columns: repeat(6, minmax(116px, 1fr));
     gap: 1px;
-    min-width: 580px;
+    min-width: 696px;
   }
 
   thead th {
@@ -352,7 +357,11 @@ td.empty {
   }
 
   .flag-cell {
-    grid-row: 1 / span 6;
+    grid-row: 1 / span 7;
+  }
+
+  .number-cell {
+    text-align: left;
   }
 
   td .flag {

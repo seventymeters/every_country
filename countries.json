@@ -9,6 +9,7 @@
     "capital": "Kabul",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 40218234,
     "languages": [
       "Dari",
       "Pashto",
@@ -24,6 +25,7 @@
     "capital": "Mariehamn",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 29458,
     "languages": [
       "Swedish"
     ]
@@ -37,6 +39,7 @@
     "capital": "Tirana",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 2837743,
     "languages": [
       "Albanian"
     ]
@@ -50,6 +53,7 @@
     "capital": "Algiers",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 44700000,
     "languages": [
       "Arabic"
     ]
@@ -63,6 +67,7 @@
     "capital": "Pago Pago",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 55197,
     "languages": [
       "English",
       "Samoan"
@@ -75,6 +80,7 @@
     "capital": "Andorra la Vella",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 77265,
     "languages": [
       "Catalan"
     ]
@@ -86,6 +92,7 @@
     "capital": "Luanda",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 32866268,
     "languages": [
       "Portuguese"
     ]
@@ -97,6 +104,7 @@
     "capital": "The Valley",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 13452,
     "languages": [
       "English"
     ]
@@ -108,6 +116,7 @@
     "capital": "",
     "region": "Antarctic",
     "status": "Territory / dependency",
+    "population": 1000,
     "languages": []
   },
   {
@@ -117,6 +126,7 @@
     "capital": "Saint John's",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 97928,
     "languages": [
       "English"
     ]
@@ -128,6 +138,7 @@
     "capital": "Buenos Aires",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 45376763,
     "languages": [
       "Guaraní",
       "Spanish"
@@ -142,6 +153,7 @@
     "capital": "Yerevan",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 2963234,
     "languages": [
       "Armenian"
     ]
@@ -153,6 +165,7 @@
     "capital": "Oranjestad",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 106766,
     "languages": [
       "Dutch",
       "Papiamento"
@@ -165,6 +178,7 @@
     "capital": "Canberra",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 25687041,
     "languages": [
       "English"
     ]
@@ -178,6 +192,7 @@
     "capital": "Vienna",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 8917205,
     "languages": [
       "German"
     ]
@@ -191,6 +206,7 @@
     "capital": "Baku",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 10110116,
     "languages": [
       "Azerbaijani"
     ]
@@ -202,6 +218,7 @@
     "capital": "Nassau",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 393248,
     "languages": [
       "English"
     ]
@@ -215,6 +232,7 @@
     "capital": "Manama",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 1701583,
     "languages": [
       "Arabic"
     ]
@@ -228,6 +246,7 @@
     "capital": "Dhaka",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 164689383,
     "languages": [
       "Bengali"
     ]
@@ -239,6 +258,7 @@
     "capital": "Bridgetown",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 287371,
     "languages": [
       "English"
     ]
@@ -252,6 +272,7 @@
     "capital": "Minsk",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 9398861,
     "languages": [
       "Belarusian",
       "Russian"
@@ -268,6 +289,7 @@
     "capital": "Brussels",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 11555997,
     "languages": [
       "Dutch",
       "French",
@@ -283,6 +305,7 @@
     "capital": "Belmopan",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 397621,
     "languages": [
       "Belizean Creole",
       "English",
@@ -296,6 +319,7 @@
     "capital": "Porto-Novo",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 12123198,
     "languages": [
       "French"
     ]
@@ -307,6 +331,7 @@
     "capital": "Hamilton",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 63903,
     "languages": [
       "English"
     ]
@@ -320,6 +345,7 @@
     "capital": "Thimphu",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 771612,
     "languages": [
       "Dzongkha"
     ]
@@ -335,6 +361,7 @@
     "capital": "Sucre",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 11673029,
     "languages": [
       "Aymara",
       "Guaraní",
@@ -352,6 +379,7 @@
     "capital": "Sarajevo",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 3280815,
     "languages": [
       "Bosnian",
       "Croatian",
@@ -365,6 +393,7 @@
     "capital": "Gaborone",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 2351625,
     "languages": [
       "English",
       "Tswana"
@@ -379,6 +408,7 @@
     "capital": "",
     "region": "Antarctic",
     "status": "Territory / dependency",
+    "population": 0,
     "languages": [
       "Norwegian"
     ]
@@ -392,6 +422,7 @@
     "capital": "Brasília",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 212559409,
     "languages": [
       "Portuguese"
     ]
@@ -403,6 +434,7 @@
     "capital": "Diego Garcia",
     "region": "Africa",
     "status": "Territory / dependency",
+    "population": 3000,
     "languages": [
       "English"
     ]
@@ -414,6 +446,7 @@
     "capital": "Road Town",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 30237,
     "languages": [
       "English"
     ]
@@ -427,6 +460,7 @@
     "capital": "Bandar Seri Begawan",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 437483,
     "languages": [
       "Malay"
     ]
@@ -440,6 +474,7 @@
     "capital": "Sofia",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 6927288,
     "languages": [
       "Bulgarian"
     ]
@@ -451,6 +486,7 @@
     "capital": "Ouagadougou",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 20903278,
     "languages": [
       "French"
     ]
@@ -464,6 +500,7 @@
     "capital": "Gitega",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 11890781,
     "languages": [
       "French",
       "Kirundi"
@@ -478,6 +515,7 @@
     "capital": "Phnom Penh",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 16718971,
     "languages": [
       "Khmer"
     ]
@@ -491,6 +529,7 @@
     "capital": "Yaoundé",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 26545864,
     "languages": [
       "English",
       "French"
@@ -503,6 +542,7 @@
     "capital": "Ottawa",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 38005238,
     "languages": [
       "English",
       "French"
@@ -517,6 +557,7 @@
     "capital": "Praia",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 555988,
     "languages": [
       "Portuguese"
     ]
@@ -531,6 +572,7 @@
     "capital": "Kralendijk",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 25987,
     "languages": [
       "Dutch",
       "English",
@@ -544,6 +586,7 @@
     "capital": "George Town",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 65720,
     "languages": [
       "English"
     ]
@@ -558,6 +601,7 @@
     "capital": "Bangui",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 4829764,
     "languages": [
       "French",
       "Sango"
@@ -573,6 +617,7 @@
     "capital": "N'Djamena",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 16425859,
     "languages": [
       "Arabic",
       "French"
@@ -585,6 +630,7 @@
     "capital": "Santiago",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 19116209,
     "languages": [
       "Spanish"
     ]
@@ -598,6 +644,7 @@
     "capital": "Beijing",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 1402112000,
     "languages": [
       "Chinese"
     ]
@@ -609,6 +656,7 @@
     "capital": "Flying Fish Cove",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 2072,
     "languages": [
       "English"
     ]
@@ -620,6 +668,7 @@
     "capital": "West Island",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 544,
     "languages": [
       "English"
     ]
@@ -631,6 +680,7 @@
     "capital": "Bogotá",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 50882884,
     "languages": [
       "Spanish"
     ]
@@ -646,6 +696,7 @@
     "capital": "Moroni",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 869595,
     "languages": [
       "Arabic",
       "Comorian",
@@ -661,6 +712,7 @@
     "capital": "Avarua",
     "region": "Oceania",
     "status": "Associated state",
+    "population": 18100,
     "languages": [
       "Cook Islands Māori",
       "English"
@@ -673,6 +725,7 @@
     "capital": "San José",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 5094114,
     "languages": [
       "Spanish"
     ]
@@ -686,6 +739,7 @@
     "capital": "Zagreb",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 4047200,
     "languages": [
       "Croatian"
     ]
@@ -697,6 +751,7 @@
     "capital": "Havana",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 11326616,
     "languages": [
       "Spanish"
     ]
@@ -710,6 +765,7 @@
     "capital": "Willemstad",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 155014,
     "languages": [
       "Dutch",
       "English",
@@ -726,6 +782,7 @@
     "capital": "Nicosia",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 1207361,
     "languages": [
       "Greek",
       "Turkish"
@@ -740,6 +797,7 @@
     "capital": "Prague",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 10698896,
     "languages": [
       "Czech",
       "Slovak"
@@ -754,6 +812,7 @@
     "capital": "Copenhagen",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 5831404,
     "languages": [
       "Danish"
     ]
@@ -767,6 +826,7 @@
     "capital": "Djibouti",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 988002,
     "languages": [
       "Arabic",
       "French"
@@ -779,6 +839,7 @@
     "capital": "Roseau",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 71991,
     "languages": [
       "English"
     ]
@@ -792,6 +853,7 @@
     "capital": "Santo Domingo",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 10847904,
     "languages": [
       "Spanish"
     ]
@@ -809,6 +871,7 @@
     "capital": "Kinshasa",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 108407721,
     "languages": [
       "French",
       "Kikongo",
@@ -824,6 +887,7 @@
     "capital": "Quito",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 17643060,
     "languages": [
       "Spanish"
     ]
@@ -837,6 +901,7 @@
     "capital": "Cairo",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 102334403,
     "languages": [
       "Arabic"
     ]
@@ -848,6 +913,7 @@
     "capital": "San Salvador",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 6486201,
     "languages": [
       "Spanish"
     ]
@@ -863,6 +929,7 @@
     "capital": "Ciudad de la Paz",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 1402985,
     "languages": [
       "French",
       "Portuguese",
@@ -879,6 +946,7 @@
     "capital": "Asmara",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 5352000,
     "languages": [
       "Arabic",
       "English",
@@ -894,6 +962,7 @@
     "capital": "Tallinn",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 1331057,
     "languages": [
       "Estonian"
     ]
@@ -905,6 +974,7 @@
     "capital": "Mbabane",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 1160164,
     "languages": [
       "English",
       "Swazi"
@@ -919,6 +989,7 @@
     "capital": "Addis Ababa",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 114963583,
     "languages": [
       "Amharic"
     ]
@@ -930,6 +1001,7 @@
     "capital": "Stanley",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 2563,
     "languages": [
       "English"
     ]
@@ -944,6 +1016,7 @@
     "capital": "Tórshavn",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 48865,
     "languages": [
       "Danish",
       "Faroese"
@@ -959,6 +1032,7 @@
     "capital": "Suva",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 896444,
     "languages": [
       "English",
       "Fiji Hindi",
@@ -974,6 +1048,7 @@
     "capital": "Helsinki",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 5530719,
     "languages": [
       "Finnish",
       "Swedish"
@@ -986,6 +1061,7 @@
     "capital": "Paris",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 67391582,
     "languages": [
       "French"
     ]
@@ -999,6 +1075,7 @@
     "capital": "Cayenne",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 254541,
     "languages": [
       "French"
     ]
@@ -1012,6 +1089,7 @@
     "capital": "Papeetē",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 280904,
     "languages": [
       "French"
     ]
@@ -1025,6 +1103,7 @@
     "capital": "Port-aux-Français",
     "region": "Antarctic",
     "status": "Territory / dependency",
+    "population": 400,
     "languages": [
       "French"
     ]
@@ -1036,6 +1115,7 @@
     "capital": "Libreville",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 2225728,
     "languages": [
       "French"
     ]
@@ -1047,6 +1127,7 @@
     "capital": "Banjul",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 2416664,
     "languages": [
       "English"
     ]
@@ -1060,6 +1141,7 @@
     "capital": "Tbilisi",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 3714000,
     "languages": [
       "Georgian"
     ]
@@ -1073,6 +1155,7 @@
     "capital": "Berlin",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 83240525,
     "languages": [
       "German"
     ]
@@ -1084,6 +1167,7 @@
     "capital": "Accra",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 31072945,
     "languages": [
       "English"
     ]
@@ -1095,6 +1179,7 @@
     "capital": "Gibraltar",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 33691,
     "languages": [
       "English"
     ]
@@ -1108,6 +1193,7 @@
     "capital": "Athens",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 10715549,
     "languages": [
       "Greek"
     ]
@@ -1121,6 +1207,7 @@
     "capital": "Nuuk",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 56367,
     "languages": [
       "Greenlandic"
     ]
@@ -1132,6 +1219,7 @@
     "capital": "St. George's",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 112519,
     "languages": [
       "English"
     ]
@@ -1143,6 +1231,7 @@
     "capital": "Basse-Terre",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 400132,
     "languages": [
       "French"
     ]
@@ -1156,6 +1245,7 @@
     "capital": "Hagåtña",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 168783,
     "languages": [
       "Chamorro",
       "English",
@@ -1169,6 +1259,7 @@
     "capital": "Guatemala City",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 16858333,
     "languages": [
       "Spanish"
     ]
@@ -1183,6 +1274,7 @@
     "capital": "St. Peter Port",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 62999,
     "languages": [
       "English",
       "French",
@@ -1198,6 +1290,7 @@
     "capital": "Conakry",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 13132792,
     "languages": [
       "French"
     ]
@@ -1211,6 +1304,7 @@
     "capital": "Bissau",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 1967998,
     "languages": [
       "Portuguese",
       "Upper Guinea Creole"
@@ -1223,6 +1317,7 @@
     "capital": "Georgetown",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 786559,
     "languages": [
       "English"
     ]
@@ -1236,6 +1331,7 @@
     "capital": "Port-au-Prince",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 11402533,
     "languages": [
       "French",
       "Haitian Creole"
@@ -1248,6 +1344,7 @@
     "capital": "",
     "region": "Antarctic",
     "status": "Territory / dependency",
+    "population": 0,
     "languages": [
       "English"
     ]
@@ -1259,6 +1356,7 @@
     "capital": "Tegucigalpa",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 9904608,
     "languages": [
       "Spanish"
     ]
@@ -1272,6 +1370,7 @@
     "capital": "City of Victoria",
     "region": "Asia",
     "status": "Territory / dependency",
+    "population": 7500700,
     "languages": [
       "Chinese",
       "English"
@@ -1286,6 +1385,7 @@
     "capital": "Budapest",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 9749763,
     "languages": [
       "Hungarian"
     ]
@@ -1299,6 +1399,7 @@
     "capital": "Reykjavik",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 366425,
     "languages": [
       "Icelandic"
     ]
@@ -1313,6 +1414,7 @@
     "capital": "New Delhi",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 1380004385,
     "languages": [
       "English",
       "Hindi",
@@ -1326,6 +1428,7 @@
     "capital": "Jakarta",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 273523621,
     "languages": [
       "Indonesian"
     ]
@@ -1339,6 +1442,7 @@
     "capital": "Tehran",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 83992953,
     "languages": [
       "Persian (Farsi)"
     ]
@@ -1354,6 +1458,7 @@
     "capital": "Baghdad",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 40222503,
     "languages": [
       "Arabic",
       "Aramaic",
@@ -1369,6 +1474,7 @@
     "capital": "Dublin",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 4994724,
     "languages": [
       "English",
       "Irish"
@@ -1383,6 +1489,7 @@
     "capital": "Douglas",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 85032,
     "languages": [
       "English",
       "Manx"
@@ -1398,6 +1505,7 @@
     "capital": "Jerusalem",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 9216900,
     "languages": [
       "Arabic",
       "Hebrew"
@@ -1412,6 +1520,7 @@
     "capital": "Rome",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 59554023,
     "languages": [
       "Catalan",
       "Italian"
@@ -1426,6 +1535,7 @@
     "capital": "Yamoussoukro",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 26378275,
     "languages": [
       "French"
     ]
@@ -1437,6 +1547,7 @@
     "capital": "Kingston",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 2961161,
     "languages": [
       "English",
       "Jamaican Patois"
@@ -1451,6 +1562,7 @@
     "capital": "Tokyo",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 125836021,
     "languages": [
       "Japanese"
     ]
@@ -1464,6 +1576,7 @@
     "capital": "Saint Helier",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 100800,
     "languages": [
       "English",
       "French",
@@ -1479,6 +1592,7 @@
     "capital": "Amman",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 10203140,
     "languages": [
       "Arabic"
     ]
@@ -1493,6 +1607,7 @@
     "capital": "Astana",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 18754440,
     "languages": [
       "Kazakh",
       "Russian"
@@ -1505,6 +1620,7 @@
     "capital": "Nairobi",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 53771300,
     "languages": [
       "English",
       "Swahili"
@@ -1517,6 +1633,7 @@
     "capital": "South Tarawa",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 119446,
     "languages": [
       "English",
       "Gilbertese"
@@ -1532,6 +1649,7 @@
     "capital": "Pristina",
     "region": "Europe",
     "status": "Disputed territory",
+    "population": 1775378,
     "languages": [
       "Albanian",
       "Serbian"
@@ -1546,6 +1664,7 @@
     "capital": "Kuwait City",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 4270563,
     "languages": [
       "Arabic"
     ]
@@ -1560,6 +1679,7 @@
     "capital": "Bishkek",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 6591600,
     "languages": [
       "Kyrgyz",
       "Russian"
@@ -1574,6 +1694,7 @@
     "capital": "Vientiane",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 7275556,
     "languages": [
       "Lao"
     ]
@@ -1587,6 +1708,7 @@
     "capital": "Riga",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 1901548,
     "languages": [
       "Latvian"
     ]
@@ -1601,6 +1723,7 @@
     "capital": "Beirut",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 6825442,
     "languages": [
       "Arabic",
       "French"
@@ -1613,6 +1736,7 @@
     "capital": "Maseru",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 2142252,
     "languages": [
       "English",
       "Sotho"
@@ -1625,6 +1749,7 @@
     "capital": "Monrovia",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 5057677,
     "languages": [
       "English"
     ]
@@ -1638,6 +1763,7 @@
     "capital": "Tripoli",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 6871287,
     "languages": [
       "Arabic"
     ]
@@ -1649,6 +1775,7 @@
     "capital": "Vaduz",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 38137,
     "languages": [
       "German"
     ]
@@ -1662,6 +1789,7 @@
     "capital": "Vilnius",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 2794700,
     "languages": [
       "Lithuanian"
     ]
@@ -1676,6 +1804,7 @@
     "capital": "Luxembourg",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 632275,
     "languages": [
       "French",
       "German",
@@ -1691,6 +1820,7 @@
     "capital": "",
     "region": "Asia",
     "status": "Territory / dependency",
+    "population": 649342,
     "languages": [
       "Chinese",
       "Portuguese"
@@ -1705,6 +1835,7 @@
     "capital": "Antananarivo",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 27691019,
     "languages": [
       "French",
       "Malagasy"
@@ -1717,6 +1848,7 @@
     "capital": "Lilongwe",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 19129955,
     "languages": [
       "Chewa",
       "English"
@@ -1731,6 +1863,7 @@
     "capital": "Kuala Lumpur",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 32365998,
     "languages": [
       "English",
       "Malay"
@@ -1745,6 +1878,7 @@
     "capital": "Malé",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 540542,
     "languages": [
       "Maldivian"
     ]
@@ -1756,6 +1890,7 @@
     "capital": "Bamako",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 20250834,
     "languages": [
       "French"
     ]
@@ -1767,6 +1902,7 @@
     "capital": "Valletta",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 525285,
     "languages": [
       "English",
       "Maltese"
@@ -1781,6 +1917,7 @@
     "capital": "Majuro",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 59194,
     "languages": [
       "English",
       "Marshallese"
@@ -1793,6 +1930,7 @@
     "capital": "Fort-de-France",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 378243,
     "languages": [
       "French"
     ]
@@ -1806,6 +1944,7 @@
     "capital": "Nouakchott",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 4649660,
     "languages": [
       "Arabic"
     ]
@@ -1820,6 +1959,7 @@
     "capital": "Port Louis",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 1265740,
     "languages": [
       "English",
       "French",
@@ -1833,6 +1973,7 @@
     "capital": "Mamoudzou",
     "region": "Africa",
     "status": "Territory / dependency",
+    "population": 226915,
     "languages": [
       "French"
     ]
@@ -1844,6 +1985,7 @@
     "capital": "Mexico City",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 128932753,
     "languages": [
       "Spanish"
     ]
@@ -1855,6 +1997,7 @@
     "capital": "Palikir",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 115021,
     "languages": [
       "English"
     ]
@@ -1866,6 +2009,7 @@
     "capital": "Chișinău",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 2617820,
     "languages": [
       "Romanian"
     ]
@@ -1877,6 +2021,7 @@
     "capital": "Monaco",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 39244,
     "languages": [
       "French"
     ]
@@ -1890,6 +2035,7 @@
     "capital": "Ulan Bator",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 3278292,
     "languages": [
       "Mongolian"
     ]
@@ -1903,6 +2049,7 @@
     "capital": "Podgorica",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 621718,
     "languages": [
       "Montenegrin"
     ]
@@ -1914,6 +2061,7 @@
     "capital": "Plymouth",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 4922,
     "languages": [
       "English"
     ]
@@ -1928,6 +2076,7 @@
     "capital": "Rabat",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 36910558,
     "languages": [
       "Arabic",
       "Berber"
@@ -1942,6 +2091,7 @@
     "capital": "Maputo",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 31255435,
     "languages": [
       "Portuguese"
     ]
@@ -1955,6 +2105,7 @@
     "capital": "Naypyidaw",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 54409794,
     "languages": [
       "Burmese"
     ]
@@ -1968,6 +2119,7 @@
     "capital": "Windhoek",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 2540916,
     "languages": [
       "Afrikaans",
       "English",
@@ -1987,6 +2139,7 @@
     "capital": "Yaren",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 10834,
     "languages": [
       "English",
       "Nauru"
@@ -2001,6 +2154,7 @@
     "capital": "Kathmandu",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 29136808,
     "languages": [
       "Nepali"
     ]
@@ -2014,6 +2168,7 @@
     "capital": "Amsterdam",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 16655799,
     "languages": [
       "Dutch"
     ]
@@ -2027,6 +2182,7 @@
     "capital": "Nouméa",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 271960,
     "languages": [
       "French"
     ]
@@ -2040,6 +2196,7 @@
     "capital": "Wellington",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 5084300,
     "languages": [
       "English",
       "Māori",
@@ -2053,6 +2210,7 @@
     "capital": "Managua",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 6624554,
     "languages": [
       "Spanish"
     ]
@@ -2064,6 +2222,7 @@
     "capital": "Niamey",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 24206636,
     "languages": [
       "French"
     ]
@@ -2075,6 +2234,7 @@
     "capital": "Abuja",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 206139587,
     "languages": [
       "English"
     ]
@@ -2086,6 +2246,7 @@
     "capital": "Alofi",
     "region": "Oceania",
     "status": "Associated state",
+    "population": 1470,
     "languages": [
       "English",
       "Niuean"
@@ -2100,6 +2261,7 @@
     "capital": "Kingston",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 2302,
     "languages": [
       "English",
       "Norfuk"
@@ -2114,6 +2276,7 @@
     "capital": "Pyongyang",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 25778815,
     "languages": [
       "Korean"
     ]
@@ -2127,6 +2290,7 @@
     "capital": "Skopje",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 2077132,
     "languages": [
       "Macedonian"
     ]
@@ -2140,6 +2304,7 @@
     "capital": "Saipan",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 57557,
     "languages": [
       "Carolinian",
       "Chamorro",
@@ -2157,6 +2322,7 @@
     "capital": "Oslo",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 5379475,
     "languages": [
       "Norwegian Bokmål",
       "Norwegian Nynorsk",
@@ -2172,6 +2338,7 @@
     "capital": "Muscat",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 5106622,
     "languages": [
       "Arabic"
     ]
@@ -2185,6 +2352,7 @@
     "capital": "Islamabad",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 220892331,
     "languages": [
       "English",
       "Urdu"
@@ -2199,6 +2367,7 @@
     "capital": "Ngerulmud",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 18092,
     "languages": [
       "English",
       "Palauan"
@@ -2213,6 +2382,7 @@
     "capital": "Ramallah",
     "region": "Asia",
     "status": "Observer state",
+    "population": 4803269,
     "languages": [
       "Arabic"
     ]
@@ -2224,6 +2394,7 @@
     "capital": "Panama City",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 4314768,
     "languages": [
       "Spanish"
     ]
@@ -2238,6 +2409,7 @@
     "capital": "Port Moresby",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 8947027,
     "languages": [
       "English",
       "Hiri Motu",
@@ -2253,6 +2425,7 @@
     "capital": "Asunción",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 7132530,
     "languages": [
       "Guaraní",
       "Spanish"
@@ -2267,6 +2440,7 @@
     "capital": "Lima",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 32971846,
     "languages": [
       "Aymara",
       "Quechua",
@@ -2282,6 +2456,7 @@
     "capital": "Manila",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 109581085,
     "languages": [
       "English",
       "Filipino"
@@ -2294,6 +2469,7 @@
     "capital": "Adamstown",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 56,
     "languages": [
       "English"
     ]
@@ -2307,6 +2483,7 @@
     "capital": "Warsaw",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 37950802,
     "languages": [
       "Polish"
     ]
@@ -2318,6 +2495,7 @@
     "capital": "Lisbon",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 10305564,
     "languages": [
       "Portuguese"
     ]
@@ -2329,6 +2507,7 @@
     "capital": "San Juan",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 3194034,
     "languages": [
       "English",
       "Spanish"
@@ -2343,6 +2522,7 @@
     "capital": "Doha",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 2881060,
     "languages": [
       "Arabic"
     ]
@@ -2358,6 +2538,7 @@
     "capital": "Brazzaville",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 5657000,
     "languages": [
       "French",
       "Kikongo",
@@ -2373,6 +2554,7 @@
     "capital": "Saint-Denis",
     "region": "Africa",
     "status": "Territory / dependency",
+    "population": 840974,
     "languages": [
       "French"
     ]
@@ -2384,6 +2566,7 @@
     "capital": "Bucharest",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 19286123,
     "languages": [
       "Romanian"
     ]
@@ -2397,6 +2580,7 @@
     "capital": "Moscow",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 144104080,
     "languages": [
       "Russian"
     ]
@@ -2408,6 +2592,7 @@
     "capital": "Kigali",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 12952209,
     "languages": [
       "English",
       "French",
@@ -2423,6 +2608,7 @@
     "capital": "Gustavia",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 4255,
     "languages": [
       "French"
     ]
@@ -2434,6 +2620,7 @@
     "capital": "Jamestown",
     "region": "Africa",
     "status": "Territory / dependency",
+    "population": 53192,
     "languages": [
       "English"
     ]
@@ -2445,6 +2632,7 @@
     "capital": "Basseterre",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 53192,
     "languages": [
       "English"
     ]
@@ -2456,6 +2644,7 @@
     "capital": "Castries",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 183629,
     "languages": [
       "English"
     ]
@@ -2469,6 +2658,7 @@
     "capital": "Marigot",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 38659,
     "languages": [
       "French"
     ]
@@ -2482,6 +2672,7 @@
     "capital": "Saint-Pierre",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 6069,
     "languages": [
       "French"
     ]
@@ -2493,6 +2684,7 @@
     "capital": "Kingstown",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 110947,
     "languages": [
       "English"
     ]
@@ -2504,6 +2696,7 @@
     "capital": "Apia",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 198410,
     "languages": [
       "English",
       "Samoan"
@@ -2516,6 +2709,7 @@
     "capital": "City of San Marino",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 33938,
     "languages": [
       "Italian"
     ]
@@ -2529,6 +2723,7 @@
     "capital": "São Tomé",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 219161,
     "languages": [
       "Portuguese"
     ]
@@ -2542,6 +2737,7 @@
     "capital": "Riyadh",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 34813867,
     "languages": [
       "Arabic"
     ]
@@ -2553,6 +2749,7 @@
     "capital": "Dakar",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 16743930,
     "languages": [
       "French"
     ]
@@ -2566,6 +2763,7 @@
     "capital": "Belgrade",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 6908224,
     "languages": [
       "Serbian"
     ]
@@ -2579,6 +2777,7 @@
     "capital": "Victoria",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 98462,
     "languages": [
       "English",
       "French",
@@ -2592,6 +2791,7 @@
     "capital": "Freetown",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 7976985,
     "languages": [
       "English"
     ]
@@ -2607,6 +2807,7 @@
     "capital": "Singapore",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 5685807,
     "languages": [
       "Chinese",
       "English",
@@ -2623,6 +2824,7 @@
     "capital": "Philipsburg",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 40812,
     "languages": [
       "Dutch",
       "English",
@@ -2638,6 +2840,7 @@
     "capital": "Bratislava",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 5458827,
     "languages": [
       "Slovak"
     ]
@@ -2651,6 +2854,7 @@
     "capital": "Ljubljana",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 2100126,
     "languages": [
       "Slovene"
     ]
@@ -2662,6 +2866,7 @@
     "capital": "Honiara",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 686878,
     "languages": [
       "English"
     ]
@@ -2676,6 +2881,7 @@
     "capital": "Mogadishu",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 15893219,
     "languages": [
       "Arabic",
       "Somali"
@@ -2697,6 +2903,7 @@
     "capital": "Pretoria",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 59308690,
     "languages": [
       "Afrikaans",
       "English",
@@ -2718,6 +2925,7 @@
     "capital": "King Edward Point",
     "region": "Antarctic",
     "status": "Territory / dependency",
+    "population": 30,
     "languages": [
       "English"
     ]
@@ -2731,6 +2939,7 @@
     "capital": "Seoul",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 51780579,
     "languages": [
       "Korean"
     ]
@@ -2742,6 +2951,7 @@
     "capital": "Juba",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 11193729,
     "languages": [
       "English"
     ]
@@ -2755,6 +2965,7 @@
     "capital": "Madrid",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 47351567,
     "languages": [
       "Basque",
       "Catalan",
@@ -2772,6 +2983,7 @@
     "capital": "Sri Jayawardenepura Kotte",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 21919000,
     "languages": [
       "Sinhala",
       "Tamil"
@@ -2786,6 +2998,7 @@
     "capital": "Khartoum",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 43849269,
     "languages": [
       "Arabic",
       "English"
@@ -2798,6 +3011,7 @@
     "capital": "Paramaribo",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 586634,
     "languages": [
       "Dutch"
     ]
@@ -2811,6 +3025,7 @@
     "capital": "Longyearbyen",
     "region": "Europe",
     "status": "Territory / dependency",
+    "population": 2562,
     "languages": [
       "Norwegian"
     ]
@@ -2824,6 +3039,7 @@
     "capital": "Stockholm",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 10353442,
     "languages": [
       "Swedish"
     ]
@@ -2840,6 +3056,7 @@
     "capital": "Bern",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 8654622,
     "languages": [
       "French",
       "Italian",
@@ -2856,6 +3073,7 @@
     "capital": "Damascus",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 17500657,
     "languages": [
       "Arabic"
     ]
@@ -2869,6 +3087,7 @@
     "capital": "Taipei",
     "region": "Asia",
     "status": "Disputed territory",
+    "population": 23503349,
     "languages": [
       "Chinese"
     ]
@@ -2883,6 +3102,7 @@
     "capital": "Dushanbe",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 9537642,
     "languages": [
       "Russian",
       "Tajik"
@@ -2895,6 +3115,7 @@
     "capital": "Dodoma",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 59734213,
     "languages": [
       "English",
       "Swahili"
@@ -2909,6 +3130,7 @@
     "capital": "Bangkok",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 69799978,
     "languages": [
       "Thai"
     ]
@@ -2920,6 +3142,7 @@
     "capital": "Dili",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 1318442,
     "languages": [
       "Portuguese",
       "Tetum"
@@ -2932,6 +3155,7 @@
     "capital": "Lomé",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 8278737,
     "languages": [
       "French"
     ]
@@ -2943,6 +3167,7 @@
     "capital": "Fakaofo",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 1411,
     "languages": [
       "English",
       "Samoan",
@@ -2956,6 +3181,7 @@
     "capital": "Nuku'alofa",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 105697,
     "languages": [
       "English",
       "Tongan"
@@ -2968,6 +3194,7 @@
     "capital": "Port of Spain",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 1399491,
     "languages": [
       "English"
     ]
@@ -2981,6 +3208,7 @@
     "capital": "Tunis",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 11818618,
     "languages": [
       "Arabic"
     ]
@@ -2994,6 +3222,7 @@
     "capital": "Ankara",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 84339067,
     "languages": [
       "Turkish"
     ]
@@ -3007,6 +3236,7 @@
     "capital": "Ashgabat",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 6031187,
     "languages": [
       "Russian",
       "Turkmen"
@@ -3019,6 +3249,7 @@
     "capital": "Cockburn Town",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 38718,
     "languages": [
       "English"
     ]
@@ -3030,6 +3261,7 @@
     "capital": "Funafuti",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 11792,
     "languages": [
       "English",
       "Tuvaluan"
@@ -3042,6 +3274,7 @@
     "capital": "Kampala",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 45741000,
     "languages": [
       "English",
       "Swahili"
@@ -3056,6 +3289,7 @@
     "capital": "Kyiv",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 44134693,
     "languages": [
       "Ukrainian"
     ]
@@ -3069,6 +3303,7 @@
     "capital": "Abu Dhabi",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 9890400,
     "languages": [
       "Arabic"
     ]
@@ -3080,6 +3315,7 @@
     "capital": "London",
     "region": "Europe",
     "status": "Sovereign state",
+    "population": 67215293,
     "languages": [
       "English"
     ]
@@ -3091,6 +3327,7 @@
     "capital": "Washington, D.C.",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 329484123,
     "languages": [
       "English"
     ]
@@ -3102,6 +3339,7 @@
     "capital": "Washington DC",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 300,
     "languages": [
       "English"
     ]
@@ -3113,6 +3351,7 @@
     "capital": "Charlotte Amalie",
     "region": "Americas",
     "status": "Territory / dependency",
+    "population": 106290,
     "languages": [
       "English"
     ]
@@ -3124,6 +3363,7 @@
     "capital": "Montevideo",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 3473727,
     "languages": [
       "Spanish"
     ]
@@ -3138,6 +3378,7 @@
     "capital": "Tashkent",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 34232050,
     "languages": [
       "Russian",
       "Uzbek"
@@ -3150,6 +3391,7 @@
     "capital": "Port Vila",
     "region": "Oceania",
     "status": "Sovereign state",
+    "population": 307150,
     "languages": [
       "Bislama",
       "English",
@@ -3166,6 +3408,7 @@
     "capital": "Vatican City",
     "region": "Europe",
     "status": "Observer state",
+    "population": 451,
     "languages": [
       "Italian",
       "Latin"
@@ -3178,6 +3421,7 @@
     "capital": "Caracas",
     "region": "Americas",
     "status": "Sovereign state",
+    "population": 28435943,
     "languages": [
       "Spanish"
     ]
@@ -3191,6 +3435,7 @@
     "capital": "Hanoi",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 97338583,
     "languages": [
       "Vietnamese"
     ]
@@ -3204,6 +3449,7 @@
     "capital": "Mata-Utu",
     "region": "Oceania",
     "status": "Territory / dependency",
+    "population": 11750,
     "languages": [
       "French"
     ]
@@ -3218,6 +3464,7 @@
     "capital": "El Aaiún",
     "region": "Africa",
     "status": "Disputed territory",
+    "population": 510713,
     "languages": [
       "Berber",
       "Hassaniya",
@@ -3233,6 +3480,7 @@
     "capital": "Sana'a",
     "region": "Asia",
     "status": "Sovereign state",
+    "population": 29825968,
     "languages": [
       "Arabic"
     ]
@@ -3244,6 +3492,7 @@
     "capital": "Lusaka",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 18383956,
     "languages": [
       "English"
     ]
@@ -3255,6 +3504,7 @@
     "capital": "Harare",
     "region": "Africa",
     "status": "Sovereign state",
+    "population": 14862927,
     "languages": [
       "Chewa",
       "Chibarwe",
